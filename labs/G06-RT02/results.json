@@ -1,0 +1,175 @@
+{
+  "source_sha256": "ea68028153ac16d045130b4d65bd07f421b5565a7c5928fb81bd613620566a08",
+  "runner_sha256": "f88995eead8f1f88cc3cc3806f25319f2fd733812f15a6c75d05d6e672d380de",
+  "mutations": [
+    {
+      "name": "baseline",
+      "survived": true,
+      "exit": 0,
+      "support": [
+        250,
+        250,
+        250,
+        250
+      ],
+      "changed": [
+        250,
+        250,
+        250,
+        250
+      ],
+      "last_error": null
+    },
+    {
+      "name": "blank_motif",
+      "survived": true,
+      "exit": 0,
+      "support": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "changed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "last_error": null
+    },
+    {
+      "name": "all_four_same_anchor",
+      "survived": true,
+      "exit": 0,
+      "support": [
+        250,
+        250,
+        250,
+        250
+      ],
+      "changed": [
+        250,
+        250,
+        250,
+        250
+      ],
+      "last_error": null
+    },
+    {
+      "name": "swap_ornament_device",
+      "survived": true,
+      "exit": 0,
+      "support": [
+        250,
+        250,
+        250,
+        250
+      ],
+      "changed": [
+        250,
+        250,
+        250,
+        250
+      ],
+      "last_error": null
+    },
+    {
+      "name": "omit_motif_from_composite",
+      "survived": true,
+      "exit": 0,
+      "support": [
+        250,
+        250,
+        250,
+        250
+      ],
+      "changed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "last_error": null
+    },
+    {
+      "name": "remove_base_scene",
+      "survived": true,
+      "exit": 0,
+      "support": [
+        250,
+        250,
+        250,
+        250
+      ],
+      "changed": [
+        250,
+        250,
+        250,
+        250
+      ],
+      "last_error": null
+    },
+    {
+      "name": "uniform_unintended_motif_color",
+      "survived": true,
+      "exit": 0,
+      "support": [
+        250,
+        250,
+        250,
+        250
+      ],
+      "changed": [
+        249,
+        248,
+        250,
+        248
+      ],
+      "last_error": null
+    },
+    {
+      "name": "misplace_composite_only",
+      "survived": false,
+      "exit": 1,
+      "support": null,
+      "changed": null,
+      "last_error": "AssertionError: ornament"
+    },
+    {
+      "name": "change_one_overlay_color",
+      "survived": false,
+      "exit": 1,
+      "support": null,
+      "changed": null,
+      "last_error": "AssertionError"
+    }
+  ],
+  "baseline_changed_support_luminance": [
+    {
+      "variant": "ornament",
+      "mean_base_luminance": 0.37873,
+      "mean_composite_luminance": 0.5488,
+      "mean_abs_luminance_change": 0.1823
+    },
+    {
+      "variant": "field",
+      "mean_base_luminance": 0.04771,
+      "mean_composite_luminance": 0.45334,
+      "mean_abs_luminance_change": 0.40563
+    },
+    {
+      "variant": "device",
+      "mean_base_luminance": 0.18863,
+      "mean_composite_luminance": 0.48468,
+      "mean_abs_luminance_change": 0.29605
+    },
+    {
+      "variant": "ui",
+      "mean_base_luminance": 0.04092,
+      "mean_composite_luminance": 0.45051,
+      "mean_abs_luminance_change": 0.40959
+    }
+  ],
+  "limitations": "Constructed mutations; not an estimate of general error coverage. Mean linear sRGB luma on changed pixels is not a perceptual contrast score or audience evidence."
+}
