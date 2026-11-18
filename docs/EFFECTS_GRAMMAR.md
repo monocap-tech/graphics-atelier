@@ -2,6 +2,10 @@
 
 2026-11-18. G07 deferred on user direction. This document defines a proposed sub-investigation within Graphics Atelier, not a new standalone repository or a mandatory expanded curriculum. Existing G06-A01/P01 retained.
 
+## BR01 production-priority notice
+
+[Branch review](../research/G06-BR01.md) governs next work. Expressive/semantic inquiry supports the original objective of independent productive capacity. Effects can influence spectator experience beyond communicating a situation; design for that efficacy and critique it directly, without conflating intended or felt effects with technical correctness. Select a substantive in-context target, editable tool workflow, playback and revision, integration and transfer; no further isolated toy just to prove an already identified distinction. VIGIL is held. The earlier notices and tracks below are retained as supporting history, not current sequencing mandates.
+
 ## Revision notice (G06-REV01)
 
 [Effects semantics and conventionalization](EFFECTS_SEMIOTICS.md) now governs research priority. The following tracks remain valid supporting research, but do not constitute an established effects-specific semantic grammar. Animation, morphology and production are not sufficient to infer meanings. The revised source-led atlas, semantic contrasts and reception/transfer obligations take precedence over new prototype production. RT01 regression and production gates remain open.
