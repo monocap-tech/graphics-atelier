@@ -60,3 +60,7 @@ See [G02-A01](G02-AUDIT-01.md) for the bounded R1 observations superseding earli
 ## G00-A02 / G02-A02 update
 
 See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qualifications; [initial dimensional atlas](G02-ATLAS-01.md) distinguishes reported settings from direct text-mask counts and unavailable commercial capture measurements. SRC046–050 are bounded R1 observations; SRC051–053 R0. No assets copied.
+
+## G00-A03
+
+[EDGE / Edge3 / Aseprite operation audit](G00-AUDIT-03.md) assigns SRC054–061. SRC054–060 bounded documentation/training observations; SRC061 R0. See [G01-P01](studies/G01-P01.md) for independent semantic check and proposed practical export test.
