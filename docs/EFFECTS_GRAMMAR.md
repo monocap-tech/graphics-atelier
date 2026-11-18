@@ -6,6 +6,10 @@
 
 [Effects semantics and conventionalization](EFFECTS_SEMIOTICS.md) now governs research priority. The following tracks remain valid supporting research, but do not constitute an established effects-specific semantic grammar. Animation, morphology and production are not sufficient to infer meanings. The revised source-led atlas, semantic contrasts and reception/transfer obligations take precedence over new prototype production. RT01 regression and production gates remain open.
 
+## REV02 — supporting construction repertoire
+
+[Situation-first revision](EFFECTS_SEMIOTICS.md#g06-rev02--situation-first-investigation-governing-revision) governs G06. Start from what a situated episode makes perceptible, including nonliteral or autonomous expression; recruit the formal tracks below to compare articulations. Keep the operation catalogue and earlier studies as construction/observation evidence, not a semantic dictionary. A motion operation, a rendered effect, a sign function and a situation are non-equivalent; some motion is itself constitutive of the situation. The earlier target families and review gates below are retained as supporting proposals, subordinate to REV02 rather than mandatory isolated prototype sequences.
+
 ## Research object
 
 Effects as authored phenomena and transformations of the visual/audiovisual field, inside and outside games. They may convey state, imply force/material/scale, modify apparent space and time, establish atmosphere, or be an autonomous aesthetic object. An effect need not correspond to gameplay logic. An implementation primitive (particle, mesh, shader, drawing) does not determine the expressive grammar.
