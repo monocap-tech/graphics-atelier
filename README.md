@@ -8,8 +8,10 @@ Research and production laboratory for visual graphics architecture, interactive
 
 - [Research charter](docs/CHARTER.md): scope, constraints, evidence levels and stopping conditions.
 - [Investigation protocol](docs/PROTOCOL.md): target definition, source qualification, reproducible experiments and acceptance.
+- [G06 effects production standard](docs/EFFECTS_STANDARD.md): canonical target-to-workflow record, representational/situational/experiential/production facets, evidence gates and current scope.
+- [G06 corpus and maturity crosswalk](research/G06-STD01-CROSSWALK.md): legacy records, qualified findings, verification limits and archived priorities.
 - [Domain map](docs/DOMAINS.md): visual graphics, interface presentation and their engineering foundations.
-- [Reference and source registry](research/SOURCES.md): initial discovery leads (not certified workflows).
+- [Reference and source registry](research/SOURCES.md): initial discovery leads and individually qualified later extensions (not certified workflows).
 - [Case studies and integration](docs/INTEGRATION.md): how practical interface design and authored presentation converge.
 - [Illustration adaptation and proportional asset study](research/studies/G02-P01.md): comparative sprite standards, procurement, pose libraries and runtime handoff.
 - [Dimensional contract](docs/DIMENSIONAL_CONTRACT.md): proposed cross-domain relationships and sequencing.
@@ -23,4 +25,4 @@ Commercial work supplies targets; primary production sources, independent recons
 
 The production boundary includes acquiring or commissioning suitable editable artwork, adapting it to different visual representations, and maintaining an asset contract through runtime. The repository is independent of any single game. A hybrid shooting-game demonstrator is a prospective application, not a condition for starting research. The public [Relay Yard](https://github.com/monocap-tech/relay-yard) project provides a compact practical presentation case, with the migration caveats stated in its README.
 
-**Status:** provisional foundation, 2026-11-17. No new visual methodology or empirical curriculum has been validated by this bootstrap. No engine, graphics budget, publishing framework, or distribution license is selected here.
+**Status:** provisional foundation charter adopted 2026-11-17, G06 standardization 2026-11-18. Original bounded rendering/validation fixtures exist, but no general G06 R4 production method, human-response result or integrated TC-C demonstration is established. No engine, graphics budget, publishing framework or distribution license has been locked at the project level. Historical G06 REV01/REV02 priorities are superseded by STD01; G07 remains deferred.
