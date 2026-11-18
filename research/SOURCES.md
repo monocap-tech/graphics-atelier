@@ -68,3 +68,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G00-A04
 
 [Multipart authorship and grid audit](G00-AUDIT-04.md) assigns SRC062–075 (SRC073 cross-reference to SRC038, not independent evidence). SRC062–070 inspected; SRC071–075 discovery-only. [G03-P02](studies/G03-P02.md) documents an executed semantic control and unrun editor study.
+
+## G04/G05-A01
+
+[Environment and camera-directed stage audit](G04-G05-AUDIT-01.md): SRC076–086 (SRC076–083 qualified; SRC084–086 discovery-only); SRC007/SRC011 rechecked. [G04-P01](studies/G04-P01.md) environment kit proposal and [G05-P01](studies/G05-P01.md) projection control/engine proposal.
