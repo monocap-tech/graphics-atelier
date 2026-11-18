@@ -112,3 +112,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G06-S04a
 
 [Effect hosts and static radiance comparison](G06-SEMANTICS-04A.md): SRC183–186, SRC088 rechecked. SRC183 extracted PDF text (page screenshot unavailable); SRC184–185 text; SRC186 excerpt-only R0. Actual original static renders and exact source/results in lab, no measured commercial reference cut or audience evidence.
+
+## G06-S07
+
+[Dramatic participation and represented causation](G06-SEMANTICS-07.md): SRC187–198, including 2018/2020 film producer interviews and 2023 Precure VR production account. SRC197–198 discovery/snippet only; earlier SRC087/SRC195 distinguish effects from staging. VA15 static thumbnail (specific encouragement phase unverified); timed commercial cuts remain unavailable. [VIGIL](studies/G06-S07A-VIGIL.md) proposed independent comparative scene, not commercial reconstruction.
