@@ -4,13 +4,19 @@
 
 ## BR01 production-priority notice
 
+**Current precedence (STD01):** [effects production standard](EFFECTS_STANDARD.md) now governs G06-specific records and readiness under the project [protocol](PROTOCOL.md). This document is the supporting morphology/temporal/representation vocabulary. The REV01/REV02 and BR01 priority language that follows is historical, and any incompatible next-step instruction is superseded. No new production experiment is claimed.
+
 [Branch review](../research/G06-BR01.md) governs next work. Expressive/semantic inquiry supports the original objective of independent productive capacity. Effects can influence spectator experience beyond communicating a situation; design for that efficacy and critique it directly, without conflating intended or felt effects with technical correctness. Select a substantive in-context target, editable tool workflow, playback and revision, integration and transfer; no further isolated toy just to prove an already identified distinction. VIGIL is held. The earlier notices and tracks below are retained as supporting history, not current sequencing mandates.
 
 ## Revision notice (G06-REV01)
 
+**Historical research-priority notice, superseded by STD01.** The next paragraph records the earlier decision; do not interpret it as a present queue instruction.
+
 [Effects semantics and conventionalization](EFFECTS_SEMIOTICS.md) now governs research priority. The following tracks remain valid supporting research, but do not constitute an established effects-specific semantic grammar. Animation, morphology and production are not sufficient to infer meanings. The revised source-led atlas, semantic contrasts and reception/transfer obligations take precedence over new prototype production. RT01 regression and production gates remain open.
 
 ## REV02 — supporting construction repertoire
+
+**Historical research-priority notice, superseded by STD01.** The situation-first comparison is retained where warranted, not a compulsory starting point for all effects.
 
 [Situation-first revision](EFFECTS_SEMIOTICS.md#g06-rev02--situation-first-investigation-governing-revision) governs G06. Start from what a situated episode makes perceptible, including nonliteral or autonomous expression; recruit the formal tracks below to compare articulations. Keep the operation catalogue and earlier studies as construction/observation evidence, not a semantic dictionary. A motion operation, a rendered effect, a sign function and a situation are non-equivalent; some motion is itself constitutive of the situation. The earlier target families and review gates below are retained as supporting proposals, subordinate to REV02 rather than mandatory isolated prototype sequences.
 
