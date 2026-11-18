@@ -2,6 +2,10 @@
 
 2026-11-18. Assistant-selected original target after [S07 source review](../G06-SEMANTICS-07.md). Not rendered, not a reconstruction of Precure or any licensed scene. No source imagery used. Goal is dramatic articulation, not status accuracy or generic visual flourish.
 
+## Status — held by BR01
+
+[Branch review](../G06-BR01.md) suspends this proposed specimen pending production-target selection. Retained for possible future use, not the active next executable. No VIGIL render, test or audience result. Do not manufacture a replacement vignette without a substantive craft obligation.
+
 ## Situation and directed scene
 
 A watchkeeper stands exhausted at a distant break in a causeway. Two companions remain on the near bank, unable to reach them. Both lift their lanterns in solidarity, the watchkeeper turns toward them, finds resolve, straightens and takes a step. The lanterns are real props; the relation need not imply literal magic or energy storage. Fixed camera, original readable silhouettes, stable staging and unlabelled scene. Preserve body acting, eyelines and environment so no-added-effect baseline can stand on its own. No UI, text, numeric resources or game-state event flags displayed. No particle asset acquisition necessary.
