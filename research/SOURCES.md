@@ -1,6 +1,6 @@
 # Initial source registry
 
-All entries below are **R0 discovery leads** from the preliminary discussion, not a newly verified bibliography. Verify the URL, author/title, date, language, access, rights, and relevant passage or code before citing a technical claim in a method record. The public Relay Yard source file observations in the integration document were inspected through GitHub during the antecedent discussion. No source assets are mirrored.
+The initial **SRC001–020 table** contains **R0 discovery leads** from the preliminary discussion, not a newly verified bibliography. Later dated extensions record *different, individually qualified* states and must not all be labeled R0 or all treated as verified. Verify each URL, author/title, date, language, passage, media type, access, rights and source-native terminology before citing a technical or production claim. An inspected web page is not a watched embedded video; a still is not a timed cut; creator intention is not measured viewer efficacy. Use [PROTOCOL](../docs/PROTOCOL.md) EK-A…D and [STD01](../docs/EFFECTS_STANDARD.md) for new G06 claims. The public Relay Yard source file observations in the integration document were inspected through GitHub during the antecedent discussion. No source assets are mirrored.
 
 | ID | Lead / source | Candidate use |
 |---|---|---|
@@ -120,3 +120,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G06-BR01
 
 [Production and experiential review](G06-BR01.md) rechecks SRC087/099/102; registers SRC199–202 (early cinema terminology lead, Sega 2025 training, 2026 affective evaluation abstract, 2022 impact-feel abstract). Explicit access/causal/etymological limitations in review. No new commercial footage, project rendering or audience results.
+
+## G06-STD01 — corpus standardization (2026-11-18)
+
+[Canonical domain standard](../docs/EFFECTS_STANDARD.md) and [legacy crosswalk](G06-STD01-CROSSWALK.md) consolidate existing SRC IDs without renumbering or adding source-dependent psychological claims. For new source entries record: native term/title/language, author/origin/date/version, exact passage and URL/page/cut, inspected modality (**text / still / timed media / code / editable project / participant study**), access/rights, EK type, claimed content, limitations and contradicted readings. Do not promote S1 creator-intent labels to SEM-S4 reception. SRC087 Nintendo text, SRC099 CEDEC report, SRC102/200 Sega training and SRC187–198 Precure records retain their prior status/limits. Source access blockers (embedded movies, paid material, missing timed cuts) remain visible. No new source material was acquired by the STD01 editorial regrouping.
