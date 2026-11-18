@@ -56,3 +56,7 @@ See [G02-A01](G02-AUDIT-01.md) for the bounded R1 observations superseding earli
 
 - SRC044 [桝久堂 格ゲー作画講座2](https://www.maskedo.com/howto02/) — palette ramps and allocation, B/R1.
 - SRC045 [GameBusiness.jp, NDC18 report](https://www.gamebusiness.jp/article/2018/04/30/14468.html) — corroborating report, limited R1.
+
+## G00-A02 / G02-A02 update
+
+See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qualifications; [initial dimensional atlas](G02-ATLAS-01.md) distinguishes reported settings from direct text-mask counts and unavailable commercial capture measurements. SRC046–050 are bounded R1 observations; SRC051–053 R0. No assets copied.
