@@ -72,3 +72,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G04/G05-A01
 
 [Environment and camera-directed stage audit](G04-G05-AUDIT-01.md): SRC076–086 (SRC076–083 qualified; SRC084–086 discovery-only); SRC007/SRC011 rechecked. [G04-P01](studies/G04-P01.md) environment kit proposal and [G05-P01](studies/G05-P01.md) projection control/engine proposal.
+
+## G06-A01
+
+[Effects production and visual hierarchy](G06-AUDIT-01.md): SRC087–098; SRC087–096 bounded observations, SRC097–098 R0; SRC012 overlaps SRC094. [G06-P01](studies/G06-P01.md) records scalar control and proposed operator study.
