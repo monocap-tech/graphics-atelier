@@ -88,3 +88,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G06-A04
 
 [Nonliteral effects, graphic motion and audiovisual relations](G06-AUDIT-04.md): SRC115–125, R1 bounded observations except SRC118/SRC125 technical discovery only. [G06-P03](studies/G06-P03.md) original score, six executed checks and untested browser preview. No external source media copied.
+
+## G06-A05
+
+[Recurrence, variation and compositional transfer](G06-AUDIT-05.md) assigns SRC126–132; SRC126–131 bounded textual observations (SRC128 screenshot blocked), SRC132 R0. [G06-P04](studies/G06-P04.md) six sampled-path checks and original plate/local preview; playback and transfer unvalidated.
