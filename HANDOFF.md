@@ -4,7 +4,7 @@
 
 Foundation v0.1 is a proposed research charter, protocol, domain map, discovery source ledger and work queue. It was assembled from preliminary investigation and earlier project discussions; it does not establish experimental results. The repository is public, so previously private material is not imported.
 
-G00-A01 has recorded an initial bounded source pass; G03-P01 remains a proposed executable study. G02-P01 now specifies a parallel illustration-adaptation inquiry, including comparative proportional benchmarks and acquisition/commission specifications. Next: qualify its target frames and source leads, then create a small original specimen with declared acceptance and resource limits; no study is held up by the entire reference survey. The UI bridge is G08, not a reason to restart or silently replace any separate curriculum.
+G00-A01 has recorded an initial bounded source pass; G03-P01 remains a proposed executable study. G02-P01 now specifies a parallel illustration-adaptation inquiry, including comparative proportional benchmarks and acquisition/commission specifications. G02-A01 qualifies selected primary testimony and independent literature and records two reported numeric benchmarks, not measured capture data. Next: acquire and measure a bounded set of lawful target captures, and create a small original specimen with declared acceptance and resource limits; no study is held up by the entire reference survey. The UI bridge is G08, not a reason to restart or silently replace any separate curriculum.
 
 ## Open decisions
 

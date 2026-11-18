@@ -49,3 +49,10 @@ IDs SRC021–SRC031 were assigned in [G00-A01](G00-AUDIT-01.md); this extension 
 | SRC043 | [日本印刷産業連合会 paper-size reference](https://www.jfpi.or.jp/printpia/topics_detail21/id%3D3570) | JP A/JIS B-series lead; print specification not proof of game production influence. R0. |
 
 SRC003 (Gunvolt 3 interview) page re-located on 2026-11-18; retain R0 until the pertinent artist statements are qualified. SRC001 previous R1 observation stands. Expand the corpus with Capcom/SNK historical arcade, handheld Inti Creates, French-Bread and Arc System Works, independent JP/EN and other comparators. Do not conflate the availability of sources with national competence.
+
+## G02-A01 qualification update
+
+See [G02-A01](G02-AUDIT-01.md) for the bounded R1 observations superseding earlier R0 status for SRC003, SRC032 and SRC034; SRC001, SRC035 and SRC036 reconfirmed. No change to remaining R0 leads.
+
+- SRC044 [桝久堂 格ゲー作画講座2](https://www.maskedo.com/howto02/) — palette ramps and allocation, B/R1.
+- SRC045 [GameBusiness.jp, NDC18 report](https://www.gamebusiness.jp/article/2018/04/30/14468.html) — corroborating report, limited R1.
