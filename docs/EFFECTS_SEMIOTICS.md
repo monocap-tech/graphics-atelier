@@ -48,3 +48,7 @@ G06-S04: preregister original reconstruction using source-led contrasts. Hold an
 G06-S05: real production handoff and transfer. Preserve meaning across a materially different effect, representation and host conditions, using actual DCC and runtime where available. Record costs, versions, asset handoff, revision, observed failures and controlled comparison; do not create a DSL prematurely.
 
 Branch review: source-led visual atlas across material/interactive/nonliteral or affective families; bounded code/comparative evidence; original production with alternative/reference and meaningful semantic transfer; integration and repair gates of RT01. Do not make historical exhaustiveness or universal meanings terminal conditions. A code can be learned within one work; cross-work convergence and reception claims require additional evidence. G07 remains deferred pending deliberate review.
+
+## S03 qualification
+
+See [dated comparative register](../research/G06-SEMANTICS-03.md). Distinguish intentional transfer, conservation, extension, reassignment and pragmatic change. Keep audience agreement, repeat-session stability, learned recognition, and historical transmission separate. S1 provenance is not S4 reception. RPG Maker demonstrates bounded command-level custody, not a reason to design a universal effect language. S03b will select a contrastive expressive family before S04; no new broad taxonomy or automatic prototype.

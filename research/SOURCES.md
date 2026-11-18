@@ -100,3 +100,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G06-S02
 
 [Static occurrence atlas and reported corpus comparison](G06-SEMANTICS-02.md): SRC135 full paper upgraded, SRC136 selected image crops, SRC150–156 registered, SRC087/139–141 and SRC147 rechecked. Eleven visual records (static only), aggregate-count inconsistency and acquisition limitations recorded. No complete video cut or new audience evidence.
+
+## G06-S03
+
+[Conventionalization and semantic reassignment](G06-SEMANTICS-03.md): SRC157–171 bounded textual, manual and abstract evidence; original Docomo design process, dated RC rule comparison, RPG Maker command custody, Forspoken and sparkles cases, reception caveats. No new measured visual occurrence, R0 leads explicitly separated.
