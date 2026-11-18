@@ -84,3 +84,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G06-A03
 
 [Morphology, exposure and temporal relationships](G06-AUDIT-03.md): SRC109–114, bounded R1 for SRC109–112 and R0 SRC113–114; SRC100 expanded and SRC101 bibliography rechecked via excerpt (403). Independent criticism separated from production testimony. [G06-P02](studies/G06-P02.md) original scalar exposure control and proposed artist lab; no footage measured.
+
+## G06-A04
+
+[Nonliteral effects, graphic motion and audiovisual relations](G06-AUDIT-04.md): SRC115–125, R1 bounded observations except SRC118/SRC125 technical discovery only. [G06-P03](studies/G06-P03.md) original score, six executed checks and untested browser preview. No external source media copied.
