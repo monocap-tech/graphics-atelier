@@ -1,0 +1,43 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>G06-P05 — Confluence</title>
+<style>body{font:16px system-ui,sans-serif;background:#101923;color:#e8edf0;max-width:860px;margin:20px auto;padding:0 12px}canvas{width:100%;height:auto;image-rendering:pixelated;border:1px solid #657789}label{display:inline-block;margin:8px}button,select,input{font:inherit}input[type=range]{width:80%}</style>
+<h1>Confluence — an effects family</h1><p>Gather, strike, part, residue. Three contexts; two realizations; cancellation as a deliberate exception.</p>
+<label>Context <select id="context"><option>abstract</option><option>discharge</option><option>targeting</option></select></label><label>Representation <select id="mode"><option>continuous</option><option>stepped</option></select></label><label><input type="checkbox" id="cancel">Cancel at tick 12</label><button id="play">Play</button> <button id="stop">Stop</button>
+<canvas id="stage" width="640" height="360" aria-label="Confluence motion study"></canvas><label>Tick <input id="tick" type="range" min="0" max="47" value="0"></label><output id="status"></output>
+<script>
+const $=id=>document.getElementById(id), dst=$("stage"), out=dst.getContext("2d"), low=document.createElement("canvas");low.width=160;low.height=90;
+const tau=Math.PI*2, C={bg:"#101923",panel:"#25374a",blue:"#71d0cf",light:"#f5edd0",amber:"#ed9b63",dim:"#678293"};
+const clamp=x=>Math.max(0,Math.min(1,x));
+const phase=(t,cancel)=>cancel&&t>=12?"cancelled":t<18?"gather":t<30?"active":"residue";
+const pose=(t,cancel,mode)=>{const p=phase(t,cancel),q=mode==="stepped"?Math.floor(t/3)*3:t;return {phase:p,t:q,active:p==="active",trip:p==="active"&&t===18};};
+function draw(context,mode,t,cancel){
+ const m=pose(t,cancel,mode),q=m.t,g=mode==="stepped"?low.getContext("2d"):out,s=mode==="stepped"?1:4;
+ g.setTransform(s,0,0,s,0,0);g.globalAlpha=1;g.fillStyle=C.bg;g.fillRect(0,0,160,90);g.lineCap="butt";g.lineJoin="miter";
+ function line(x1,y1,x2,y2,col,w=1,a=1){g.globalAlpha=a;g.strokeStyle=col;g.lineWidth=w;g.beginPath();g.moveTo(x1,y1);g.lineTo(x2,y2);g.stroke();g.globalAlpha=1;}
+ function arc(x,y,r,a,b,col,w=1,alpha=1){if(r<=0||alpha<=0)return;g.globalAlpha=alpha;g.strokeStyle=col;g.lineWidth=w;g.beginPath();g.arc(x,y,r,a,b);g.stroke();g.globalAlpha=1;}
+ function poly(points,col,a=1){g.globalAlpha=a;g.fillStyle=col;g.beginPath();points.forEach(([x,y],i)=>i?g.lineTo(x,y):g.moveTo(x,y));g.closePath();g.fill();g.globalAlpha=1;}
+ function box(x,y,r,col){for(const [dx,dy] of [[-1,-1],[1,-1],[1,1],[-1,1]]){line(x+dx*r,y+dy*r,x+dx*(r-4),y+dy*r,col,1.5);line(x+dx*r,y+dy*r,x+dx*r,y+dy*(r-4),col,1.5)}}
+ const x=context==="discharge"?42:80,y=45;
+ if(context==="abstract"){line(17,45,143,45,C.panel,.5);line(80,10,80,80,C.panel,.5);}
+ if(context==="discharge"){for(let i=0;i<5;i++)line(0,14+i*16,160,14+i*16,C.panel,.5);poly([[9,40],[25,30],[38,37],[38,53],[25,60],[9,50]],C.panel);line(25,45,37,45,C.dim,2);box(131,45,8,C.dim);}
+ if(context==="targeting"){poly([[80,38],[86,45],[80,52],[74,45]],C.panel);for(const a of [0,Math.PI/2,Math.PI,Math.PI*1.5])line(x+25*Math.cos(a),y+25*Math.sin(a),x+29*Math.cos(a),y+29*Math.sin(a),C.dim);}
+ if(m.phase==="gather"){
+  for(let i=0;i<3;i++){const u=clamp((q-i*2)/Math.max(1,17-i*2)),a=i*tau/3-.4+u*.9,r=27-20*u;arc(x,y,r,a,a+.92,C.blue,1.7,.4+.6*u);const b=a+.92;poly([[x+r*Math.cos(b),y+r*Math.sin(b)],[x+(r-3)*Math.cos(b-.2),y+(r-3)*Math.sin(b-.2)],[x+(r+2)*Math.cos(b-.28),y+(r+2)*Math.sin(b-.28)]],C.light);}
+  if(context==="targeting")box(x,y,27-12*clamp(q/17),C.blue);
+ }else if(m.phase==="active"){
+  const u=clamp((q-18)/12);arc(x,y,6+20*u,0,tau,C.light,1.8,1-u*.75);
+  for(let i=0;i<3;i++){const a=i*tau/3+.5,r=9+18*u;arc(x,y,r,a,a+.75,C.amber,2,1-u*.7);}
+  if(context==="discharge"){line(42,45,131,45,C.blue,5);line(42,45,131,45,C.light,1.5);arc(131,45,3+8*u,0,tau,C.amber,1,1-u*.6);}
+  else if(context==="targeting"){box(x,y,13,C.light);line(x-4,y,x+4,y,C.amber);line(x,y-4,x,y+4,C.amber);}
+  else {poly([[x,y-5],[x+5,y],[x,y+5],[x-5,y]],C.light);}
+ }else if(m.phase==="residue"){
+  for(let i=0;i<3;i++){const u=clamp((q-30-i*3)/12),a=i*tau/3+.5;if(q<30+i*3||u>=1)continue;const r=22+12*u;arc(x,y,r,a,a+.8*(1-u),C.amber,1.5,1-u);}
+  if(context==="targeting")box(x,y,19,C.dim);
+ }else{
+  const u=clamp((q-12)/12);if(u<1){for(let i=0;i<3;i++){const a=i*tau/3-.2;arc(x,y,17+12*u,a,a+.7,C.dim,1.5,1-u);}}
+  if(context==="targeting")box(x,y,27,C.dim);
+ }
+ if(mode==="stepped"){out.setTransform(1,0,0,1,0,0);out.imageSmoothingEnabled=false;out.drawImage(low,0,0,640,360);}
+ $("tick").value=t;$("status").value=context+" · "+mode+" · "+m.phase+" · tick "+t;return m;
+}
+window.renderAt=draw;window.effectPose=pose;let raf=0;function stop(){cancelAnimationFrame(raf)}function render(t){draw($("context").value,$("mode").value,t,$("cancel").checked)}$("play").onclick=()=>{stop();const start=performance.now();function step(now){const t=Math.min(47,Math.floor((now-start)*24/1000));render(t);if(t<47)raf=requestAnimationFrame(step)}raf=requestAnimationFrame(step)};$("stop").onclick=stop;for(const id of ["context","mode","cancel","tick"]){$(id).oninput=()=>{stop();render(+$('tick').value)}}render(0);
+</script></html>
