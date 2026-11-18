@@ -64,3 +64,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G00-A03
 
 [EDGE / Edge3 / Aseprite operation audit](G00-AUDIT-03.md) assigns SRC054–061. SRC054–060 bounded documentation/training observations; SRC061 R0. See [G01-P01](studies/G01-P01.md) for independent semantic check and proposed practical export test.
+
+## G00-A04
+
+[Multipart authorship and grid audit](G00-AUDIT-04.md) assigns SRC062–075 (SRC073 cross-reference to SRC038, not independent evidence). SRC062–070 inspected; SRC071–075 discovery-only. [G03-P02](studies/G03-P02.md) documents an executed semantic control and unrun editor study.

@@ -1,0 +1,106 @@
+{
+  "logical_canvas": [
+    32,
+    32
+  ],
+  "output_canvas": [
+    128,
+    128
+  ],
+  "integer_scale": 4,
+  "rows": [
+    {
+      "angle": 0,
+      "direct_mixed_blocks": 0,
+      "logical_mixed_blocks": 0,
+      "output_pixels_different": 0,
+      "identical": true,
+      "independent_joint_rounding_px": 0,
+      "endpoints_coincident": true,
+      "priority_at_overlap": true,
+      "low_color_count": 3,
+      "high_color_count": 3
+    },
+    {
+      "angle": 15,
+      "direct_mixed_blocks": 43,
+      "logical_mixed_blocks": 0,
+      "output_pixels_different": 165,
+      "identical": false,
+      "independent_joint_rounding_px": 0.281576,
+      "endpoints_coincident": true,
+      "priority_at_overlap": true,
+      "low_color_count": 3,
+      "high_color_count": 3
+    },
+    {
+      "angle": 30,
+      "direct_mixed_blocks": 47,
+      "logical_mixed_blocks": 0,
+      "output_pixels_different": 160,
+      "identical": false,
+      "independent_joint_rounding_px": 0.071797,
+      "endpoints_coincident": true,
+      "priority_at_overlap": true,
+      "low_color_count": 3,
+      "high_color_count": 3
+    },
+    {
+      "angle": 45,
+      "direct_mixed_blocks": 44,
+      "logical_mixed_blocks": 0,
+      "output_pixels_different": 165,
+      "identical": false,
+      "independent_joint_rounding_px": 0.485281,
+      "endpoints_coincident": true,
+      "priority_at_overlap": true,
+      "low_color_count": 3,
+      "high_color_count": 3
+    },
+    {
+      "angle": 60,
+      "direct_mixed_blocks": 47,
+      "logical_mixed_blocks": 0,
+      "output_pixels_different": 160,
+      "identical": false,
+      "independent_joint_rounding_px": 0.071797,
+      "endpoints_coincident": true,
+      "priority_at_overlap": true,
+      "low_color_count": 3,
+      "high_color_count": 3
+    },
+    {
+      "angle": 75,
+      "direct_mixed_blocks": 43,
+      "logical_mixed_blocks": 0,
+      "output_pixels_different": 165,
+      "identical": false,
+      "independent_joint_rounding_px": 0.281576,
+      "endpoints_coincident": true,
+      "priority_at_overlap": true,
+      "low_color_count": 3,
+      "high_color_count": 3
+    },
+    {
+      "angle": 90,
+      "direct_mixed_blocks": 0,
+      "logical_mixed_blocks": 0,
+      "output_pixels_different": 0,
+      "identical": true,
+      "independent_joint_rounding_px": 0,
+      "endpoints_coincident": true,
+      "priority_at_overlap": true,
+      "low_color_count": 3,
+      "high_color_count": 3
+    }
+  ],
+  "checks": {
+    "logical_grid_all_poses": true,
+    "axis_aligned_control": true,
+    "direct_off_axis_grid_violations": true,
+    "hierarchy_registration": true,
+    "draw_priority": true,
+    "palette_preserved": true,
+    "isolated_rounding_nonzero": true
+  }
+}
