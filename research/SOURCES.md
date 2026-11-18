@@ -104,3 +104,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G06-S03
 
 [Conventionalization and semantic reassignment](G06-SEMANTICS-03.md): SRC157–171 bounded textual, manual and abstract evidence; original Docomo design process, dated RC rule comparison, RPG Maker command custody, Forspoken and sparkles cases, reception caveats. No new measured visual occurrence, R0 leads explicitly separated.
+
+## G06-S03b
+
+[Radiance expressive-family comparison](G06-SEMANTICS-03B.md): SRC172–182 (SRC182 discovery only), three new static thumbnail observations VA12–14, source-author testimony and contrasting gameplay/affective/material functions. [S04 proposed contrast study](studies/G06-S04-RADIANCE.md); timed cuts, audience tests and production execution remain open.

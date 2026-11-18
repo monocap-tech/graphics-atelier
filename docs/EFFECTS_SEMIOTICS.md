@@ -52,3 +52,7 @@ Branch review: source-led visual atlas across material/interactive/nonliteral or
 ## S03 qualification
 
 See [dated comparative register](../research/G06-SEMANTICS-03.md). Distinguish intentional transfer, conservation, extension, reassignment and pragmatic change. Keep audience agreement, repeat-session stability, learned recognition, and historical transmission separate. S1 provenance is not S4 reception. RPG Maker demonstrates bounded command-level custody, not a reason to design a universal effect language. S03b will select a contrastive expressive family before S04; no new broad taxonomy or automatic prototype.
+
+## S03b bounded target
+
+[Radiance family](../research/G06-SEMANTICS-03B.md) distinguishes optical appearance, affect, thematic affiliation, state/affordance and actor-relative meaning. Not all luminosity is a sign and not all signs are positive. [S04 study draft](../research/studies/G06-S04-RADIANCE.md) compares attachment and timing before undertaking any general-purpose implementation. Exact timed reference and production gate remain open.
