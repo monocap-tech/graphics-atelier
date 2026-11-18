@@ -6,6 +6,20 @@
 
 Retained as a descriptive motion/composition/production lexicon, not a demonstrated semantic grammar. See [effects semantics](EFFECTS_SEMIOTICS.md) for sign, code, context and conventionalization; do not infer fixed meanings from operation names. RT01 objections remain open.
 
+## STD01 — relation to the target-to-workflow record
+
+This catalogue is a **descriptive lookup**, not a mandatory recipe, historical classification, semantic dictionary, editor API or generalized effects language. [EFFECTS_STANDARD](EFFECTS_STANDARD.md) and [PROTOCOL](PROTOCOL.md) govern G06 production targets and evidence. The composition contract below is a view into the **same canonical record**, not an independent certification system:
+
+| Legacy composition field | Canonical location |
+|---|---|
+| Design | Target property, experiential intention, situation if relevant, and plain/control comparison |
+| Phrase | Phenomenal treatment: timing, motion, operation relations and branch policy |
+| Representation | Authoring custody and implementation; editable source, asset/export mapping |
+| Context | Representative viewing/scene, runtime contract, competing interpretation and adverse case |
+| Evidence | Provenance, four evaluation lanes, costs, transfer, decision and limitations |
+
+OP01–17 remain searchable as technique labels; OP17 transposition is especially a method of investigation, not necessarily a drawable action. The original RT01 objection to mixed operation types remains open and is **not** cured by relabeling. Historical next-step language below is non-governing.
+
 ## First register
 
 | ID | Operation / domain | What changes; what must be tracked | Grounding and local experiment |
