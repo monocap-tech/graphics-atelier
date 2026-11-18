@@ -1,0 +1,40 @@
+{
+  "pillow": "12.3.0",
+  "numpy": "2.3.5",
+  "ticks": 48,
+  "logical": [
+    160,
+    90
+  ],
+  "scale": 4,
+  "checks": {
+    "authored_blank_endpoints": true,
+    "authored_directional_centroid": true,
+    "authored_separation": true,
+    "authored_palette": true,
+    "authored_logical_blocks": true,
+    "procedural_blank_endpoints": true,
+    "procedural_directional_centroid": true,
+    "procedural_separation": true,
+    "procedural_palette": true,
+    "procedural_logical_blocks": true,
+    "authored_exposure": true,
+    "independent_render_difference": true
+  },
+  "summary": {
+    "authored": {
+      "unique_frames": 11,
+      "peak_occupied": 1607,
+      "peak_components": 7,
+      "centroid_x_12": 56.806,
+      "centroid_x_36": 123.934
+    },
+    "procedural": {
+      "unique_frames": 41,
+      "peak_occupied": 1320,
+      "peak_components": 5,
+      "centroid_x_12": 33.186,
+      "centroid_x_36": 104.795
+    }
+  }
+}
