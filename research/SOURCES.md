@@ -96,3 +96,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G06-REV01 / G06-S01
 
 [Effects semantics source register](G06-SEMANTICS-01.md): SRC133–149, SRC087 rechecked. Individual R1 limits and R0 leads recorded; exact source images/cuts and full papers not analyzed. [Revised priority](../docs/EFFECTS_SEMIOTICS.md), first S1 text-attested contrasts, no new prototype.
+
+## G06-S02
+
+[Static occurrence atlas and reported corpus comparison](G06-SEMANTICS-02.md): SRC135 full paper upgraded, SRC136 selected image crops, SRC150–156 registered, SRC087/139–141 and SRC147 rechecked. Eleven visual records (static only), aggregate-count inconsistency and acquisition limitations recorded. No complete video cut or new audience evidence.

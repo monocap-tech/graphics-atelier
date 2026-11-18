@@ -31,6 +31,8 @@ The operation catalogue v0.1 is principally descriptive motion and compositional
 - S3 bounded comparative distribution (explicit sampling and coding; alternatives, negative cases, denominators where appropriate).
 - S4 demonstrated reception, learning or transfer under appropriate procedure; historical transmission separately requires dated lineage evidence.
 
+Use S2-static as an explicit qualifier for a registered still or crop without independently observed temporal sequence; retain S1 for meaning if supplied only by labels or documentation. S3 may describe a published external bounded corpus, not our own measurements; distinguish distribution from reception and historical lineage.
+
 S levels are local provisional bookkeeping, not a psychometric scale and not automatically cumulative: a creator's intent and measured reception answer distinct questions. Do not sum levels or equate S4 with artistic merit.
 
 ## Research program
