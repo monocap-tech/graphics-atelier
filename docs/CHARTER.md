@@ -8,7 +8,7 @@ Reconstruct, qualify and operationalize methods for producing original graphics 
 
 ## Scope
 
-Raster construction; animation/articulation; polygonal environments; spatial composition; effects; illustrative/dramatic composition; rendering architecture; production infrastructure; and interface/presentation design. Other regional practices are legitimate comparators. The historical lineages must not be collapsed into one purported national style.
+Illustration specification, lawful asset sourcing/commissioning, adaptation and custody; comparative character/world/display proportions; raster construction; animation/articulation; polygonal environments; spatial composition; effects; illustrative/dramatic composition; rendering architecture; production infrastructure; and interface/presentation design. Other regional practices are legitimate comparators. The historical lineages must not be collapsed into one purported national style.
 
 ## Articulative constraints
 
@@ -22,6 +22,7 @@ Raster construction; animation/articulation; polygonal environments; spatial com
 | Transfer | Demonstrate application to a distinct asset or context when the workflow is production-critical. |
 | Comparative validation | Define target properties and controls before judging resemblance. |
 | Feasibility | Record manual labor, runtime cost, skill, software and hardware requirements. |
+| Asset continuity | Specify source art, usage and adaptation rights, reference dimensions, representation-specific deviations, approved pose/variant libraries and editable handoff. Preserve provenance from acquisition through runtime export. |
 | Architectural coherence | Define interfaces between authoring and runtime without prematurely prescribing a single engine. |
 | Independence | No ripped assets, inaccessible studio tools, or unauthorized redistributions as required dependencies. |
 | Linguistic parity | Search Japanese and English literature on their own terms; retain original titles/keywords; add other languages where justified. |
@@ -42,7 +43,7 @@ Historical curiosities may stop at R1. A portfolio-critical method ordinarily ai
 
 A — epistemic sufficiency: explain the selected target properties with documented or clearly labeled reconstructed accounts. B — operational sufficiency: reproduce and vary them independently within stated resources. C — production sufficiency: selected methods interoperate in a coherent environment and support original work.
 
-C is the provisional terminal condition for the core project, assessed only against a bounded target set agreed in advance. A/B can close individual inquiries. Before declaring C: document essential methods at R4 (or explicitly justify exceptions); perform a clean rerun and integrated demonstration; record gaps, dependency licenses, performance, resource costs and acceptance results. Nonessential methods may remain open. No endpoint requires exhaustive historical research or building a universal engine.
+C is the provisional terminal condition for the core project, assessed only against a bounded target set agreed in advance. A/B can close individual inquiries. Before declaring C: document essential methods at R4 (or explicitly justify exceptions); perform a clean rerun and integrated demonstration, including at least one traceable original illustration-derived asset with an independently reusable specification and edit/export handoff; record gaps, dependency licenses, performance, resource costs and acceptance results. Nonessential methods may remain open. No endpoint requires exhaustive historical research or building a universal engine.
 
 ## Exclusions
 

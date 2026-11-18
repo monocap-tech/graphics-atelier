@@ -1,14 +1,15 @@
-# Research handoff — 2026-11-17
+# Research handoff — 2026-11-18
 
 ## Current cursor
 
 Foundation v0.1 is a proposed research charter, protocol, domain map, discovery source ledger and work queue. It was assembled from preliminary investigation and earlier project discussions; it does not establish experimental results. The repository is public, so previously private material is not imported.
 
-Next: G00, select specific observable reference targets and qualify primary and independent reconstruction leads; then propose one executable study with acceptance checks, assets and a bounded time/resource budget. The UI bridge is G08, not a reason to restart or silently replace any separate curriculum.
+G00-A01 has recorded an initial bounded source pass; G03-P01 remains a proposed executable study. G02-P01 now specifies a parallel illustration-adaptation inquiry, including comparative proportional benchmarks and acquisition/commission specifications. Next: qualify its target frames and source leads, then create a small original specimen with declared acceptance and resource limits; no study is held up by the entire reference survey. The UI bridge is G08, not a reason to restart or silently replace any separate curriculum.
 
 ## Open decisions
 
 - Which target/frame/sequence is first, and what counts as sufficient?
+- Which original character specimen, identity cues, intended camera and procurement/handoff test best reveal the minimum viable sprite resolution? No external commission or purchase is authorized by this proposal.
 - Which software versions are available to the researcher; what acquisition/labor budget is permissible?
 - Which logical display, palette/texture, geometry and performance constraints are actually useful?
 - What original specimens and measures will establish generalization and integration?

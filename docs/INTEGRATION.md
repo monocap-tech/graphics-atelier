@@ -24,4 +24,8 @@ Design a single stateful HUD cue in a restrained screen, using identical underly
 
 This lab integrates graphic construction, information architecture, motion and runtime, without assuming that every element requires elaborate animation or a large toolchain.
 
+## Asset-to-presentation interface (proposed)
+
+G02-P01 supplies the upstream design and acquisition interface: original illustration, registered pose set, scale and representation definitions, editable layer masters, export metadata and provenance. G09 should demonstrate that an approved source change (for example a costume accent or attachment point) can propagate through sprite and one additional relevant representation without breaking registration or gameplay legibility. Keep source artwork distinct from runtime atlas data and collisions; the renderer does not dictate a universal art canvas. See [G02-P01](../research/studies/G02-P01.md).
+
 Related UI research remains separately maintained. No nonpublic curriculum files or original source artwork are reproduced here. Our bridge is a new proposed experiment, not an assertion that the earlier studies have been completed.

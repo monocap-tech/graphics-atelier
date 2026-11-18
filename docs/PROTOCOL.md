@@ -12,6 +12,10 @@ A target is an observable feature in an identifiable reference, not simply a gam
 6. Compare under matched viewing conditions: native and final display, representative motion, clutter, lighting or input conditions. Record both operational correctness and perceived quality. Compare at least one simpler alternative when deciding to add complexity.
 7. Generalize if needed; decide promote, revise, reject, defer or stop. Register the actual evidence and remaining uncertainty.
 
+## Illustration-derived asset prerequisite
+
+For illustration-derived targets, register acquisition/source status and rights; choose character-to-viewport and world-to-raster scale at the intended camera; test anatomy, resolution and repeated poses before locking source and export dimensions. Distinguish visible frame bounds, art workspace, animation registration, atlas packing and display scale. Specify identity-bearing details, permitted adaptation, layer responsibilities, editable deliverables and revision checkpoints; test both art-to-runtime and revision-to-runtime handoff. See [G02-P01](../research/studies/G02-P01.md). A found illustration is reference evidence, not intrinsically a production asset.
+
 ## Evidence kinds (not ranked solely by prestige)
 
 A: documented original production method; B: transferable professional method; C: inference or independent reconstruction of an observable result; D: our independently tested method. An independent account can provide stronger operational evidence than a studio interview. Several kinds may support the same recipe. These are separate from R0–R5 maturity.
@@ -36,5 +40,7 @@ Fidelity to declared properties; expressivity; controllability; manual effort; r
     Decision / limitations / next bounded question
 
 ## Search policy
+
+For proportional and illustration-adaptation research, also search 画面設計, 画面占有率, 頭身, 身長対比表, 設定画, 三面図, 素体, 作画規格, 基準寸法, 縮尺, 原寸, 原画, 動画, パーツ分け, ドット絵清書, 黄金比, 白銀比, 発注仕様 and 納品形式.
 
 Japanese terms include 制作工程, 制作事例, 作画技法, ドット絵メイキング, 背景制作, 内製ツール, 再現実験, 技術考察, 自作描画エンジン, 自作ツール, 制作備忘録, 同人ゲーム制作日記. Search across CEDiL, CGWORLD, J-STAGE, CiNii, NDL, 技術書典, BOOTH, Hatena, Qiita, Zenn, note, GitHub and appropriate homebrew communities. Record queries and dead ends when they materially affect an inference. A discovery set is not proof of completeness.

@@ -11,6 +11,7 @@ Research and production laboratory for visual graphics architecture, interactive
 - [Domain map](docs/DOMAINS.md): visual graphics, interface presentation and their engineering foundations.
 - [Reference and source registry](research/SOURCES.md): initial discovery leads (not certified workflows).
 - [Case studies and integration](docs/INTEGRATION.md): how practical interface design and authored presentation converge.
+- [Illustration adaptation and proportional asset study](research/studies/G02-P01.md): comparative sprite standards, procurement, pose libraries and runtime handoff.
 - [Work queue](research/QUEUE.md): bounded next investigations and proposed demonstrator.
 - [Publication policy](docs/PUBLICATION.md): documentation/wiki architecture and rights boundaries.
 - [Handoff](HANDOFF.md): current cursor and unresolved decisions.
@@ -19,6 +20,6 @@ Research and production laboratory for visual graphics architecture, interactive
 
 Commercial work supplies targets; primary production sources, independent reconstructions, and executable public experiments supply candidate mechanisms. Only repeated experiments under declared conditions establish a validated workflow here. Negative results are retained.
 
-The repository is independent of any single game. A hybrid shooting-game demonstrator is a prospective application, not a condition for starting research. The public [Relay Yard](https://github.com/monocap-tech/relay-yard) project provides a compact practical presentation case, with the migration caveats stated in its README.
+The production boundary includes acquiring or commissioning suitable editable artwork, adapting it to different visual representations, and maintaining an asset contract through runtime. The repository is independent of any single game. A hybrid shooting-game demonstrator is a prospective application, not a condition for starting research. The public [Relay Yard](https://github.com/monocap-tech/relay-yard) project provides a compact practical presentation case, with the migration caveats stated in its README.
 
 **Status:** provisional foundation, 2026-11-17. No new visual methodology or empirical curriculum has been validated by this bootstrap. No engine, graphics budget, publishing framework, or distribution license is selected here.
