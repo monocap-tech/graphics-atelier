@@ -1,6 +1,10 @@
 # G06 — Effects semantics: situational articulation and conventionalization
 2026-11-18. User-directed revision after G06-RT01. Governs G06's next research priority; prior morphology, exposure, audiovisual and construction records retained as supporting studies. G07 remains deferred. No claim that animation, effects and semiotics have exclusive boundaries.
 
+## BR01 qualification — experiential efficacy and production priority
+
+See [branch review](../research/G06-BR01.md). Situational semantics is retained, but is not the whole function of effects. Distinguish phenomenal/representational construction, situational articulation and experiential/psychological efficacy (felt force, attention, expectation, affect, rhythm, satisfaction and other qualities); these overlap and are not a universal causal taxonomy. Creator intention, formal correctness, viewer interpretation and experienced impact are different evidence. Use these distinctions to direct and critique production, not mandate an exhaustive sign system or a new psychology program. BR01 governs next work: VIGIL held; select a substantive reference-backed authoring target with an actual scene, usable tool, comparative playback, revision and handoff. Historical priority language below is retained for provenance.
+
 ## REV01 research question (retained foundation)
 
 How do graphical, temporal, spatial, sonic and contextual relationships become sufficiently stable that an audience can interpret them, and how can an author deliberately exploit, extend, contrast or disrupt these relationships? Effects can make intangible relations, event consequences, material/emotional qualities and unreal phenomena perceptible. They can also be ambiguous, atmospheric or autonomous. No requirement that every effect encode a discrete message.
