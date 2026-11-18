@@ -92,3 +92,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G06-A05
 
 [Recurrence, variation and compositional transfer](G06-AUDIT-05.md) assigns SRC126–132; SRC126–131 bounded textual observations (SRC128 screenshot blocked), SRC132 R0. [G06-P04](studies/G06-P04.md) six sampled-path checks and original plate/local preview; playback and transfer unvalidated.
+
+## G06-REV01 / G06-S01
+
+[Effects semantics source register](G06-SEMANTICS-01.md): SRC133–149, SRC087 rechecked. Individual R1 limits and R0 leads recorded; exact source images/cuts and full papers not analyzed. [Revised priority](../docs/EFFECTS_SEMIOTICS.md), first S1 text-attested contrasts, no new prototype.

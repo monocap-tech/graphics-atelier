@@ -2,6 +2,10 @@
 
 2026-11-18. G07 deferred on user direction. This document defines a proposed sub-investigation within Graphics Atelier, not a new standalone repository or a mandatory expanded curriculum. Existing G06-A01/P01 retained.
 
+## Revision notice (G06-REV01)
+
+[Effects semantics and conventionalization](EFFECTS_SEMIOTICS.md) now governs research priority. The following tracks remain valid supporting research, but do not constitute an established effects-specific semantic grammar. Animation, morphology and production are not sufficient to infer meanings. The revised source-led atlas, semantic contrasts and reception/transfer obligations take precedence over new prototype production. RT01 regression and production gates remain open.
+
 ## Research object
 
 Effects as authored phenomena and transformations of the visual/audiovisual field, inside and outside games. They may convey state, imply force/material/scale, modify apparent space and time, establish atmosphere, or be an autonomous aesthetic object. An effect need not correspond to gameplay logic. An implementation primitive (particle, mesh, shader, drawing) does not determine the expressive grammar.

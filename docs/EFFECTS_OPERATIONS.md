@@ -2,6 +2,10 @@
 
 2026-11-18, G06-A08. Provisional analytical vocabulary derived from the cited previous audits and original studies, not a historical Japanese taxonomy, tool API or complete generative grammar. An operation acts on a declared object (contour, part, field, phrase, clock or relation). A name alone is not an explanation. Composition and context determine what the operation does expressively.
 
+## G06-REV01 qualification
+
+Retained as a descriptive motion/composition/production lexicon, not a demonstrated semantic grammar. See [effects semantics](EFFECTS_SEMIOTICS.md) for sign, code, context and conventionalization; do not infer fixed meanings from operation names. RT01 objections remain open.
+
 ## First register
 
 | ID | Operation / domain | What changes; what must be tracked | Grounding and local experiment |
