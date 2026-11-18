@@ -108,3 +108,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G06-S03b
 
 [Radiance expressive-family comparison](G06-SEMANTICS-03B.md): SRC172–182 (SRC182 discovery only), three new static thumbnail observations VA12–14, source-author testimony and contrasting gameplay/affective/material functions. [S04 proposed contrast study](studies/G06-S04-RADIANCE.md); timed cuts, audience tests and production execution remain open.
+
+## G06-S04a
+
+[Effect hosts and static radiance comparison](G06-SEMANTICS-04A.md): SRC183–186, SRC088 rechecked. SRC183 extracted PDF text (page screenshot unavailable); SRC184–185 text; SRC186 excerpt-only R0. Actual original static renders and exact source/results in lab, no measured commercial reference cut or audience evidence.

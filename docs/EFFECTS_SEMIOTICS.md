@@ -56,3 +56,7 @@ See [dated comparative register](../research/G06-SEMANTICS-03.md). Distinguish i
 ## S03b bounded target
 
 [Radiance family](../research/G06-SEMANTICS-03B.md) distinguishes optical appearance, affect, thematic affiliation, state/affordance and actor-relative meaning. Not all luminosity is a sign and not all signs are positive. [S04 study draft](../research/studies/G06-S04-RADIANCE.md) compares attachment and timing before undertaking any general-purpose implementation. Exact timed reference and production gate remain open.
+
+## S04 host/dependency qualification
+
+See [S04a source precedents and static comparison](../research/G06-SEMANTICS-04A.md). Represented independent phenomenon, bearer-attached sign, intrinsic transformation of existing element, region/composite transformation and multiple-bearer relationships are analytical distinctions, orthogonal to semantic role and renderer architecture. A transition can operate on an existing identity without requiring a new independently represented object. Record host, coordinates, lifetime, dependency, continuity and semantic role separately; hybrid cases allowed. This is our synthesis, not a claimed single historical taxonomy. The static radiance experiment checks motif invariance, not audience interpretation or actual transitions.

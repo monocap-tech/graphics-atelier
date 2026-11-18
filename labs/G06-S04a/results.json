@@ -1,0 +1,59 @@
+{
+  "renderer": "2.8.2",
+  "viewport": [
+    480,
+    300
+  ],
+  "anchors": [
+    {
+      "variant": "ornament",
+      "anchor": [
+        167,
+        212
+      ],
+      "motif_support_pixels": 250,
+      "changed_pixels": 250,
+      "outside_changes": 0,
+      "motif_patch_sha256": "c4ac1689614ba8aedca9ee147880248f388c9f7c1b7bab164032ba1dc465b83b"
+    },
+    {
+      "variant": "field",
+      "anchor": [
+        225,
+        84
+      ],
+      "motif_support_pixels": 250,
+      "changed_pixels": 250,
+      "outside_changes": 0,
+      "motif_patch_sha256": "c4ac1689614ba8aedca9ee147880248f388c9f7c1b7bab164032ba1dc465b83b"
+    },
+    {
+      "variant": "device",
+      "anchor": [
+        353,
+        142
+      ],
+      "motif_support_pixels": 250,
+      "changed_pixels": 250,
+      "outside_changes": 0,
+      "motif_patch_sha256": "c4ac1689614ba8aedca9ee147880248f388c9f7c1b7bab164032ba1dc465b83b"
+    },
+    {
+      "variant": "ui",
+      "anchor": [
+        432,
+        246
+      ],
+      "motif_support_pixels": 250,
+      "changed_pixels": 250,
+      "outside_changes": 0,
+      "motif_patch_sha256": "c4ac1689614ba8aedca9ee147880248f388c9f7c1b7bab164032ba1dc465b83b"
+    }
+  ],
+  "checks": {
+    "six_unlabelled_images_exported": true,
+    "identical_translated_motif_rgba": true,
+    "no_changes_outside_motif": true
+  },
+  "limits": "No audience data; placement and underlying contrast vary; no animation or real runtime. All intended meanings are hypotheses."
+}
