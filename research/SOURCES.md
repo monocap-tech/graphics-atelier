@@ -80,3 +80,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G06-A02
 
 [Effects authorship beyond implementation](G06-AUDIT-02.md) assigns SRC099–108; bounded observations and publication/reference leads individually marked. [Effects grammar charter](../docs/EFFECTS_GRAMMAR.md) expands G06; existing G06-P01 retained. No paid books, course content or commercial assets acquired.
+
+## G06-A03
+
+[Morphology, exposure and temporal relationships](G06-AUDIT-03.md): SRC109–114, bounded R1 for SRC109–112 and R0 SRC113–114; SRC100 expanded and SRC101 bibliography rechecked via excerpt (403). Independent criticism separated from production testimony. [G06-P02](studies/G06-P02.md) original scalar exposure control and proposed artist lab; no footage measured.
