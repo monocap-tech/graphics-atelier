@@ -1,5 +1,9 @@
 # G06 — Effects semantics: situational articulation and conventionalization
-2026-11-18. User-directed revision after G06-RT01. Governs G06's next research priority; prior morphology, exposure, audiovisual and construction records retained as supporting studies. G07 remains deferred. No claim that animation, effects and semiotics have exclusive boundaries.
+2026-11-18. User-directed REV01/REV02 investigation after G06-RT01; **historical priority only** after [STD01](EFFECTS_STANDARD.md). This remains a semantic/situational and reception-analysis supplement, not G06's governing production sequence; prior morphology, exposure, audiovisual and construction records retained. G07 remains deferred. No claim that animation, effects and semiotics have exclusive boundaries.
+
+## Current status — STD01 / BR01 qualification
+
+[Effects production standard](EFFECTS_STANDARD.md) now governs the G06 target-to-workflow record and production gates. Use this document only when the target raises meanings, convention, situation, interpretation or reception. Situation-first indexing remains a useful optional comparative lens; the primary project unit is not the semantic situation by default. The S0–S4 ladder below is written **SEM-S0…SEM-S4** in new records; it is optional, local and noncumulative. All 'governing revision' and 'next executable' clauses retained below record **historical** REV01/REV02 priorities. S04b has since executed; S07a VIGIL is held.
 
 ## BR01 qualification — experiential efficacy and production priority
 
@@ -40,6 +44,8 @@ Use S2-static as an explicit qualifier for a registered still or crop without in
 S levels are local provisional bookkeeping, not a psychometric scale and not automatically cumulative: a creator's intent and measured reception answer distinct questions. Do not sum levels or equate S4 with artistic merit.
 
 ## G06-REV02 — Situation-first investigation (governing revision)
+
+**Archive context:** this heading and the priority statements below preserve the state of REV02 on 2026-11-18. They no longer govern the queue after STD01; their analysis method and observations remain valid on their stated evidence.
 
 2026-11-18. User-directed regrouping after RT02-R1. The primary comparative unit is the semantic situation, not an isolated effect asset or operation. The working hypothesis is that many effects articulate an aspect of a situation that would otherwise be less perceptible, including anticipated, conditional, fictional, material, affective and interpersonal relations. This is not a measured majority claim, a definition excluding autonomous effects, or a claim that all signs are strictly indexical. Causal traces, likeness and learned convention can coexist; a synthetic cue may be rule-bound without being a physical trace.
 
