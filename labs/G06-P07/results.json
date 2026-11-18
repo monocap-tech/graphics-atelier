@@ -1,0 +1,99 @@
+{
+  "cases": 720,
+  "gridSamples": 50,
+  "gridViolations": 0,
+  "traceMismatches": 0,
+  "summaries": {
+    "hit": {
+      "activeTicks": 21,
+      "impacts": [
+        27
+      ],
+      "terminal": "blocked",
+      "event": 27
+    },
+    "miss": {
+      "activeTicks": 37,
+      "impacts": [],
+      "terminal": "exited",
+      "event": 43
+    },
+    "cancel": {
+      "activeTicks": 12,
+      "impacts": [],
+      "terminal": "cancelled",
+      "event": 18
+    },
+    "moving": {
+      "activeTicks": 21,
+      "impacts": [
+        27
+      ],
+      "terminal": "blocked",
+      "event": 27
+    }
+  },
+  "probe": {
+    "on_flight": [
+      197,
+      207,
+      183,
+      255
+    ],
+    "on_impact": [
+      233,
+      170,
+      112,
+      255
+    ],
+    "on_cancel": [
+      25,
+      37,
+      50,
+      255
+    ],
+    "on_miss_flight": [
+      197,
+      208,
+      184,
+      255
+    ],
+    "off_flight": [
+      197,
+      207,
+      183,
+      255
+    ],
+    "off_impact": [
+      233,
+      166,
+      108,
+      255
+    ],
+    "off_cancel": [
+      25,
+      37,
+      50,
+      255
+    ],
+    "off_miss_flight": [
+      197,
+      208,
+      184,
+      255
+    ]
+  },
+  "checks": {
+    "same_state_with_fx": true,
+    "expected_hit": true,
+    "expected_moving": true,
+    "expected_miss": true,
+    "expected_cancel": true,
+    "grid_samples": true,
+    "active_core_both_modes": true,
+    "impact_mark_both_modes": true,
+    "cancel_no_bright_core": true
+  },
+  "browser": "144.0.7559.96",
+  "pageErrors": []
+}

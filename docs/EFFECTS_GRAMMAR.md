@@ -32,3 +32,7 @@ One useful comparative lab: same geometry and color family, same total duration,
 Commercial benchmarks, public animator techniques, independent blogs/open projects and observations of natural phenomena are all first-class leads; qualify each according to charter. Catalogue resources by actual operation/relationship and authoring method, not just names like "fire," "lightning" or product names. A publishable wiki record should expose repeatability, revision and attribution.
 
 Provisional branch review gates: (1) bounded comparative atlas across the three target families with explicit sequence/shape observations and contrary cases; (2) operation and temporal-syntax catalogue grounded in qualified sources; (3) small original effect family with a reasoned alternate, two realization methods and at least one context transfer; (4) integration test for production-critical effects with G06-P01's state, timing, export and contrast gates, without imposing gameplay semantics on autonomous work. These are candidate readiness criteria, not a final comprehensive endpoint or certification. Evidence levels R0–R5 still apply per methodology. G07 can be revisited at a branch review or when needed as a dependency. Do not indefinitely postpone other tracks until all conceivable effects have been studied.
+
+## Implementation-independent catalogue
+
+See [operations catalogue v0.1](EFFECTS_OPERATIONS.md) and [G06-A08 branch readiness](../research/G06-A08.md). These are locally proposed analytical structures, not certification of the full charter.
