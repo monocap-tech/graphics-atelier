@@ -76,3 +76,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G06-A01
 
 [Effects production and visual hierarchy](G06-AUDIT-01.md): SRC087–098; SRC087–096 bounded observations, SRC097–098 R0; SRC012 overlaps SRC094. [G06-P01](studies/G06-P01.md) records scalar control and proposed operator study.
+
+## G06-A02
+
+[Effects authorship beyond implementation](G06-AUDIT-02.md) assigns SRC099–108; bounded observations and publication/reference leads individually marked. [Effects grammar charter](../docs/EFFECTS_GRAMMAR.md) expands G06; existing G06-P01 retained. No paid books, course content or commercial assets acquired.
