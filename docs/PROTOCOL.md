@@ -20,11 +20,17 @@ For illustration-derived targets, register acquisition/source status and rights;
 
 A: documented original production method; B: transferable professional method; C: inference or independent reconstruction of an observable result; D: our independently tested method. An independent account can provide stronger operational evidence than a studio interview. Several kinds may support the same recipe. These are separate from R0–R5 maturity.
 
+For new or materially revised records, write evidence-kind labels **EK-A/EK-B/EK-C/EK-D** to distinguish them from charter terminal conditions **TC-A/TC-B/TC-C**. These are aliases for the original A–D evidence kinds and A/B/C terminal conditions, not changes of criteria; older records retain original language. R0–R5 remains maturity per specified record and claim. A separate semantic/reception ladder in [G06](EFFECTS_SEMIOTICS.md) is optionally written **SEM-S0…SEM-S4**; it is not a replacement for maturity or viewer evidence. No numerical aggregation across scales.
+
 Independent researchers, homebrew developers, technical doujin authors, artists' notebooks and toolmakers are first-class sources. Prefer their runnable code, editable projects, parameters and documented failures over appearance-only showcases, while checking licensing and version compatibility.
 
 ## Evaluation dimensions
 
 Fidelity to declared properties; expressivity; controllability; manual effort; runtime/memory cost; reusability; composability; maintainability; independence; legibility and accessibility where applicable. Record criteria and thresholds per target before testing. Not all need numerical scores, and no aggregate score substitutes for a failed essential requirement.
+
+## Evaluation lanes and experienced-quality intentions (2026-11-18 clarification)
+
+When relevant, record **intended experiential quality** (e.g. force, readability, elation, apprehension) separately from observed response, and inspect the output in its **representative camera/background/action/audio context** and final display scale. Differentiate (1) technical contract checks, (2) situated artistic or author critique, (3) actual viewer response under a stated procedure *if any*, and (4) authoring/production readiness including editable source, revision and import. Success in one lane does not prove another. Creator testimony establishes intent, not audience efficacy. Do not require audience testing to close a bounded craft question unless reception is itself the claim. See [G06 effects standard](EFFECTS_STANDARD.md); the common target-to-workflow unit and terminal conditions remain unchanged for all domains.
 
 ## Minimum record schema
 
