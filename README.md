@@ -12,6 +12,7 @@ Research and production laboratory for visual graphics architecture, interactive
 - [Reference and source registry](research/SOURCES.md): initial discovery leads (not certified workflows).
 - [Case studies and integration](docs/INTEGRATION.md): how practical interface design and authored presentation converge.
 - [Illustration adaptation and proportional asset study](research/studies/G02-P01.md): comparative sprite standards, procurement, pose libraries and runtime handoff.
+- [Dimensional contract](docs/DIMENSIONAL_CONTRACT.md): proposed cross-domain relationships and sequencing.
 - [Work queue](research/QUEUE.md): bounded next investigations and proposed demonstrator.
 - [Publication policy](docs/PUBLICATION.md): documentation/wiki architecture and rights boundaries.
 - [Handoff](HANDOFF.md): current cursor and unresolved decisions.
