@@ -116,3 +116,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G06-S07
 
 [Dramatic participation and represented causation](G06-SEMANTICS-07.md): SRC187–198, including 2018/2020 film producer interviews and 2023 Precure VR production account. SRC197–198 discovery/snippet only; earlier SRC087/SRC195 distinguish effects from staging. VA15 static thumbnail (specific encouragement phase unverified); timed commercial cuts remain unavailable. [VIGIL](studies/G06-S07A-VIGIL.md) proposed independent comparative scene, not commercial reconstruction.
+
+## G06-BR01
+
+[Production and experiential review](G06-BR01.md) rechecks SRC087/099/102; registers SRC199–202 (early cinema terminology lead, Sega 2025 training, 2026 affective evaluation abstract, 2022 impact-feel abstract). Explicit access/causal/etymological limitations in review. No new commercial footage, project rendering or audience results.
