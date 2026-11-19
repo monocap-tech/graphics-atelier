@@ -153,3 +153,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## American design-led metrication and dimensional coherence (2026-11-19)
 
 [G02-DIMENSIONAL-01](G02-DIMENSIONAL-01.md) registers local DM01-S01–S07: AIA 1970 trade testimony, Communication Arts' 1989 production conversion (2004 retrospective), Cameron/RIT catalogue lead, GAO 1994 A4 procurement barrier, Mihm 2022 abstract-level thesis, Tufte discussion and NBS publication leads. R1 bounded testimony/report/thesis; full Cameron/NBS/Mihm contents and Tufte positions unqualified, PDF screenshots unavailable. No new asset acquisition.
+
+## G02 contrasting panel regimes (2026-11-19)
+
+[G02-PANEL-03](G02-PANEL-03.md) registers PN03-S01–S09. Substantive portions of Natsume translation qualified beyond abstract, Yonemura/Meiji style-illustration research, Hagio and Rurui(e) testimony, partial Takahashi catalog image and Fuku-chan instructional PDF screenshot. Exact layered-page and historical figure requests failed; no replicated audience result.

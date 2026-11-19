@@ -51,3 +51,7 @@ Next bounded increment: independently inspect a lawful shōjo layering specimen 
 - PN02-S07 R1 project description/secondary report: [Murakami/Sumi lab](https://scrapbox.io/imlab/マンガを読むときの視線行動), [2019 conference attendee report](https://nkmr-lab.org/news/cc2_comic_report.html). Primary article remains uninspected.
 
 No copyrighted image, excerpt page, PDF or asset copied into repository. No observer-response claim beyond published bounded evidence.
+
+## Contrasting follow-up
+
+[G02-PANEL-03](G02-PANEL-03.md) qualifies Natsume's substantive shōjo chapter text, Hagio testimony, style-illustration history, one partial Takahashi image and a complete instructional Fuku-chan strip. Exact complete layered page image still blocked; no measured reader effects.
