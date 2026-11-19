@@ -2,6 +2,12 @@
 
 ## Current cursor
 
+**G06-F05 — effects animation as drawn movement, exposure and compositing (2026-11-18).** [F05 research record](research/G06-FUNDAMENTALS-05.md) inspected Toei's official production/role definitions, Kyoto Animation's named-film making-of, Ozawa's 2019 fire/smoke instructions plus original publisher images (single-genga split SL smoke, A/B/C/D layers), Wacom Inaba creator account, Toei/CELSYS digital timesheet and official agency transcript. Differentiate エフェクト作画, 原画/動画, 特殊効果 and 撮影; Kyoto reports film-specific environmental effects generated in compositing. P.A.WORKS/Inoue restricted movie not watched or shared; full timed clips, editable art and studio integration not obtained. No new programmatic prototype, psychological audience result or direct manga→anime→game genealogy. **Next F06:** layered illustration / cutout articulation / rigging independently, then investigate documented named medium crossings, eventually naturalistic effect practice and game production. [STD01](docs/EFFECTS_STANDARD.md) remains eventual production gate, not command to create new vignettes. VIGIL held, G07 deferred, P07/RT01 debt upon reuse. All previous cursors are archived.
+
+## Earlier historical cursors — not current instructions
+
+## Current cursor
+
 **G06-F04 — manpu and gag expression in context, 2026-11-18.** [F04 source/visual study](research/G06-FUNDAMENTALS-04.md) reads Kōno's 2018 *Giga Town* publisher/museum explanation of manpu taught by four-panel use and count-dependent ♪, a small secondary photograph of a Zzz four-panel sequence, Japan Foundation's sound-lettering comparison, METI's nonliteral drawn sound/silence and a one-page educational Fuku-chan four-panel lesson (PDF screenshot viewed). Kyoto museum researcher Itō identifies metacomic rule-breaking as a historical craft direction. Ronald Stewart 2026 historiography is **abstract-qualified lead**, not a verified whole lineage; no audience testing/complete manga volumes/animation studies/prototypes. **Next F05** effects animation as independently documented craft (key animation, inbetween, drawing, exposure, compositing and sound), with separate illustration/rigging pathway, then check dated named media transfers. [STD01](docs/EFFECTS_STANDARD.md) still governs eventual production quality; impact/reveal target held pending foundations. VIGIL held, G07 deferred, P07/RT01 debt only on reuse. Earlier cursors are archival.
 
 ## Historical cursors — archive, not active instructions
