@@ -33,3 +33,7 @@ Candidate: an annotated measurement atlas and a set of proportional envelopes wi
 **Further qualified adjacent evidence:** [G02-APERTURE-02](../../G02-APERTURE-02.md) documents AJA Fr01 paper-to-screen geometry, rationale and 2016 METI raster conversion; anime/broadcast connection is attested, game transmission is not. Series remains chartered, not launched.
 
 **Game-native follow-up:** [G02-APERTURE-03](../../G02-APERTURE-03.md) separates Famicom retrospective safety guidance, modern game source extent, console movie encoding, state-dependent art framing and patent-proposed manga paneling. R1 source evidence, R0 unified formal model. No B4 inheritance established; existing first capture inquiry unchanged.
+
+## Adjacent institutional lead — 2026-11-19
+
+[G02-DIMENSIONAL-01](../../G02-DIMENSIONAL-01.md) qualifies American design-led metrication testimony and an installed-press procurement conflict; Cameron/RIT and NBS texts remain acquisition/reading leads. Compare units, dimensional modularity and cross-representation design continuity independently. Seek documented American/Japanese specifications and counterexamples, including hybrid conventions. Preserve the Vignellis as design inspirations, not proof of independent domestic recognition. This parallel intake does not launch S06 or displace the G02 aperture/specimen sequence.
