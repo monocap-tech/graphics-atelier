@@ -1,5 +1,7 @@
 # Research handoff — 2026-11-18
 
+> **Research programme, Round 01 (parallel and not yet launched):** [Six series charters](research/rounds/R01/README.md) now separately cover illustration specifications/design custody; deformation and character appeal; temporal feature distribution; material abstraction; art-production organization; and proportions/dimensional conventions. Each has a dedicated research file and may spawn multiple studies without a forced schedule or premature combined doctrine. G02-FEATURE-01 remains the bounded intake. The G06 cursor and the independent Suzuki/AM2 investigation are unchanged.
+
 > **Parallel G02 intake (independent; does not supersede the G06 cursor):** [G02-FEATURE-01](research/G02-FEATURE-01.md) consolidates the illustration-to-dot-art feature-survival thread. Two private Japanese teaching scans inspected; primary/technical public evidence qualified at R1; low-resolution eye experiments remain exploratory; no original sprite-art production or live arcade trace is claimed. Next G02 step is an **original-character, predeclared feature-importance, matched-screen-space comparison** and editable art-to-runtime handoff under [G02-P01](research/studies/G02-P01.md). The 68000/MAME and Suzuki/AM2 investigation is separately owned; do not route G02 into ROM reverse engineering.
 
 
