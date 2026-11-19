@@ -2,6 +2,12 @@
 
 ## Current cursor
 
+**G06-F04 — manpu and gag expression in context, 2026-11-18.** [F04 source/visual study](research/G06-FUNDAMENTALS-04.md) reads Kōno's 2018 *Giga Town* publisher/museum explanation of manpu taught by four-panel use and count-dependent ♪, a small secondary photograph of a Zzz four-panel sequence, Japan Foundation's sound-lettering comparison, METI's nonliteral drawn sound/silence and a one-page educational Fuku-chan four-panel lesson (PDF screenshot viewed). Kyoto museum researcher Itō identifies metacomic rule-breaking as a historical craft direction. Ronald Stewart 2026 historiography is **abstract-qualified lead**, not a verified whole lineage; no audience testing/complete manga volumes/animation studies/prototypes. **Next F05** effects animation as independently documented craft (key animation, inbetween, drawing, exposure, compositing and sound), with separate illustration/rigging pathway, then check dated named media transfers. [STD01](docs/EFFECTS_STANDARD.md) still governs eventual production quality; impact/reveal target held pending foundations. VIGIL held, G07 deferred, P07/RT01 debt only on reuse. Earlier cursors are archival.
+
+## Historical cursors — archive, not active instructions
+
+## Current cursor
+
 **G06-F03 — analog graphic materials and expressive craft, 2026-11-18.** [Source-led findings](research/G06-FUNDAMENTALS-03.md) on inking/G-/maru-pen, beta and tsuya-beta, hand-drawn kakeami, tone adhesion/cut/scrape/layer, white, digital tone metadata/moire and output. Historical source Meiji's IC Screen exhibition documents design-industry tone → Japanese manga adoption/technical expansion, no asserted direct game lineage. Nakatani artist testimony describes character-specific glossy black; Sato discusses analog white reservation versus digitally revised light and problematic print tonalization. No video or actual original printed pages measured, physical tool/print test, audience response or new prototype. **Next F04:** contextual gag / manpu / keiyu / drawn-lettering within full panels. Then examine anime effects drawing and illustration articulation on their own terms and require named historical cross-media transfer evidence. [STD01](docs/EFFECTS_STANDARD.md) remains eventual production gate; speculative immediate impact/reveal target remains held; VIGIL held, G07 deferred, RT01/P07 debt on reuse. All below are historical cursors, not immediate work orders.
 
 ## Historical cursors — archive, not active instructions
