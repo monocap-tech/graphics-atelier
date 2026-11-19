@@ -57,3 +57,7 @@ For a declared set of possible visible windows T_e (e.g. trim displacement or ph
 - Existing SRC037, SRC040, SRC043 retained as adjacent leads; this intake does not upgrade their status by association.
 
 Source texts summarized, no third-party imagery or private materials imported. No proof of historical paper-to-game transmission; no universal dimensional or ratio prescription.
+
+## Follow-up — 2026-11-19
+
+[G02-APERTURE-02](G02-APERTURE-02.md) qualifies AJA Fr01 as a documented animation/broadcast aperture and registration contract, and the 2016 METI report's paper-to-raster mapping. This is not evidence of paper-to-game descent. It also distinguishes a swept camera aperture's coverage from receiver-crop safety.

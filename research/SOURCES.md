@@ -40,7 +40,7 @@ IDs SRC021–SRC031 were assigned in [G00-A01](G00-AUDIT-01.md); this extension 
 | SRC034 | [4Gamer French-Bread Type Lumina interview (2021)](https://www.4gamer.net/games/580/G058032/20210928001/) | JP, resolution and anatomical design lead; page located, relevant passage not qualified. R0. |
 | SRC035 | [桝久堂・格ゲー作画講座1](https://www.maskedo.com/howto01/) | JP independent fighting-game sprite tutorial, copyright 2010; inspected 2026-11-18: author describes an approximate 16 px / 25 cm grid, eight-head reference and visual compatibility with KOF in MUGEN, motivated by costly inconsistent earlier assets. B, R1 observation; not an SNK standard. |
 | SRC036 | [RPG探検隊・ドット絵とサイズ](https://rpgex.sakura.ne.jp/home/log/2010-09-22.php) | JP independent developer note, 2010-09-22; inspected 2026-11-18: explicitly treats screen-relative character size and stylization as two determinants. B, R1 observation; no universal ratio asserted. |
-| SRC037 | [日本動画協会・AJA推奨レイアウト用紙規格](https://aja.gr.jp/jigyou/chousa/aja_layout) | JP industry layout-paper recommendation; adjacent-domain source/output framing analogy; page located, dimension details still to verify. R0. |
+| SRC037 | [日本動画協会・AJA推奨レイアウト用紙規格](https://aja.gr.jp/jigyou/chousa/aja_layout) | JP industry layout-paper recommendation; exact dimensions, rationale and official template qualified in [G02-APERTURE-02](G02-APERTURE-02.md). R1. |
 | SRC038 | [OPTPiX SpriteStudio pixel art guidance](https://www.webtech.co.jp/help/ja/spritestudio7/guide/pixelart/) | JP tool documentation lead, source/target resolution workflow. R0. |
 | SRC039 | [ゼロベースキャラクター制作のすゝめ](https://mugendoteita.main.jp/DotoEita/04_DMF/toukou/fu-lin01kouza/page3.html) | JP independent MUGEN character production lead. R0. |
 | SRC040 | [CLIP STUDIO TIPS manga manuscript guide](https://tips.clip-studio.com/ja-jp/articles/733) | JP adjacent-domain manuscript/output sizes and conventions. R0. |
@@ -133,3 +133,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G02 dimensional-aperture intake (2026-11-19)
 
 [G02-APERTURE-01](G02-APERTURE-01.md) registers local G02AP-S01–S07: I-C product specs, CELSYS 2014 support and current Japanese manual, Apple QuickTime/AV aperture documentation, EBU R 95 landing page/FAQ. R1 for bounded text observations; R0 model/lineage, no print or display testing. Existing SRC037/040/043 unchanged. Local IDs avoid concurrent SRC numbering conflicts.
+
+## G02 animation-layout aperture qualification (2026-11-19)
+
+[G02-APERTURE-02](G02-APERTURE-02.md) records G02AP2-S01–S06 (SRC037 upgraded): AJA Fr01 specification, rationale PDF, inspected template, METI 2016 scan-resolution text (PDF screenshot unavailable), and two practitioner accounts. R1 source observations, no anime-to-game transfer proof. No source assets imported.

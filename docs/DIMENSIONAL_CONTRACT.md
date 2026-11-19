@@ -27,6 +27,8 @@ For a baseline mapping, let V be world viewport height, h native visible upright
 
 See [G02-APERTURE-01](../research/G02-APERTURE-01.md) for the print/display comparison and source limits. Record authoring D, extended image support B, presentation T, composition guide F, protected regions S_j and local apertures P_i as role-bearing geometry, with coordinate units, origins, offsets, masks, maps and hard/soft boundary policies. F and S_j are independent; local apertures can intentionally extend beyond either. Storage extent, visible output, world viewport, UI safe regions and collision domains are different. Explicitly account for output scaling, pixel aspect, clipping and any allowed crop variants. No B4 or broadcast margin is adopted as a game rule.
 
+[G02-APERTURE-02](../research/G02-APERTURE-02.md) supplies a documented adjacent-domain case: AJA Fr01 separates an A4 sheet, 16:9 main frame, optional 90% safe/110% scan regions and peg registration. A 2016 METI report explicitly maps the ten-inch main frame to 1920×1080 at 192 dpi. Record fixed registration, camera trajectory and swept aperture coverage separately from receiver-crop safety when pertinent. These numbers are not game defaults.
+
 ## Evidence and sequence
 
 G02-AUDIT-01.md records the reported Guilty Gear/GGX numerical comparison and the independent Maskedo scale convention; neither is a universal Japanese standard. It also describes the next candidate capture pass. Golden-section and A/JIS B paper modularity remain distinct hypotheses; simple fractions, genre, camera, print/animation layout and hardware constraints are competing explanations. No causal paper-to-game rule is established.
