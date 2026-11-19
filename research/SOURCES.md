@@ -149,3 +149,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## Panel grammar visual and empirical follow-up (2026-11-19)
 
 [G02-PANEL-02](G02-PANEL-02.md) registers PN02-S01–S07: five Furudate images, Sugaya excerpt, Natsume text, Ikeda text (PDF rendering failed), IPSJ 2026 spacing methods/results and two rendered pages, IEICE abstract and 2019 project/secondary report. R1 bounded; no replicated psychology result, original panel metrology or source art redistribution.
+
+## American design-led metrication and dimensional coherence (2026-11-19)
+
+[G02-DIMENSIONAL-01](G02-DIMENSIONAL-01.md) registers local DM01-S01–S07: AIA 1970 trade testimony, Communication Arts' 1989 production conversion (2004 retrospective), Cameron/RIT catalogue lead, GAO 1994 A4 procurement barrier, Mihm 2022 abstract-level thesis, Tufte discussion and NBS publication leads. R1 bounded testimony/report/thesis; full Cameron/NBS/Mihm contents and Tufte positions unqualified, PDF screenshots unavailable. No new asset acquisition.
