@@ -23,6 +23,10 @@ G02-P01 already specifies the detailed proportional and procurement inquiry. G03
 
 For a baseline mapping, let V be world viewport height, h native visible upright height, H world height, q native head height, d displayed logical px per native px. Then screen occupancy rho=d*h/V; native density s=h/H; head count n=h/q. For perspective, varying pose, or nonuniform transforms, measure local projected bounds and qualify ratios. Atlas cells depend on registered motion envelope and packing, not upright height.
 
+## Dimensional apertures (candidate extension, 2026-11-19)
+
+See [G02-APERTURE-01](../research/G02-APERTURE-01.md) for the print/display comparison and source limits. Record authoring D, extended image support B, presentation T, composition guide F, protected regions S_j and local apertures P_i as role-bearing geometry, with coordinate units, origins, offsets, masks, maps and hard/soft boundary policies. F and S_j are independent; local apertures can intentionally extend beyond either. Storage extent, visible output, world viewport, UI safe regions and collision domains are different. Explicitly account for output scaling, pixel aspect, clipping and any allowed crop variants. No B4 or broadcast margin is adopted as a game rule.
+
 ## Evidence and sequence
 
 G02-AUDIT-01.md records the reported Guilty Gear/GGX numerical comparison and the independent Maskedo scale convention; neither is a universal Japanese standard. It also describes the next candidate capture pass. Golden-section and A/JIS B paper modularity remain distinct hypotheses; simple fractions, genre, camera, print/animation layout and hardware constraints are competing explanations. No causal paper-to-game rule is established.

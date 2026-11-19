@@ -100,6 +100,8 @@ Workstream IDs persist across proposed, executed-bounded, blocked, held and defe
 
 ## Other workstreams (independent of G06)
 
+**G02 aperture intake (2026-11-19):** [G02-APERTURE-01](G02-APERTURE-01.md) qualifies B4 manuscript regions, QuickTime aperture metadata and EBU safety margins; candidate geometry only. Add role-specific aperture/coordinate metadata to the existing G02-A02 capture task and original G02-P01 specimen; no separate prototype or new active series. S06 remains chartered; G06 and Suzuki/AM2 unchanged.
+
 Continue G00-A02 (independent raster instruction) and G02-A02 (bounded dimensional capture/reference library from G02-AUDIT-01.md) as coupled discovery tracks. See [dimensional contract](../docs/DIMENSIONAL_CONTRACT.md) for the cross-domain record and dependencies. G01/G03 may proceed as isolated technique tests with local fixtures, and G04/G05 or G08 according to available tools. Choosing shared production dimensions for G09 requires comparative G02 evidence and scene/UI integration; no isolated study is a universal specification. Do not require all literature to be exhausted before making a specimen. Every source sweep ends with a concrete artifact question, a stop decision or a stated blocker.
 
 ## Integrated demonstrator candidate

@@ -27,3 +27,5 @@ Continue [G02-AUDIT-01](../../G02-AUDIT-01.md) and [G02-ATLAS-01](../../G02-ATLA
 Candidate: an annotated measurement atlas and a set of proportional envelopes with explicit applicability. No global 'ideal sprite size' or fixed arcade-board display contract is authorized by this charter; artist-authored exceptions remain legitimate.
 
 **First bounded inquiry:** select two lawful uncropped reference frames with reliably identified version and camera, measure displayed actor/body bounds separately, and reconcile them with any documented native dimensions.
+
+**Adjacent intake (2026-11-19; series not launched):** [G02-APERTURE-01](../../G02-APERTURE-01.md) provides R1 manuscript/display source observations and an R0 cross-medium aperture model. Extend the planned measurement record to distinguish source extent, trim/presentation, composition grid, safe regions, local viewport/masks, and allowed overflow in explicit coordinates. No historical transmission established; first bounded inquiry remains unchanged.

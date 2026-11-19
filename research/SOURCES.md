@@ -129,3 +129,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G02 feature-survival intake (2026-11-18)
 
 [G02-FEATURE-01](G02-FEATURE-01.md) is the source-qualified intake from the Japanese illustration-to-dot-art discussion. Its local references G02F-S01–S06 cover the public [有織はべり 2024 feature-selection account](https://note.com/ari_ori/n/nd77e2c3fe470), Shibuya's translated 2013 interview, SNK's official KOF XII production gallery (already SRC001), Gerstner et al. (2013), Fukutake's *Space Harrier* port comparison and emulator source. **Local IDs avoid colliding with the ongoing SRC numbering of other tracks.** Two user-owned Japanese book scans were visually inspected for bounded educational observations (B01 Aseprite 74 pp.; B02 character coloring 209 pp.); no scan, crop, third-party sprite or original commercial source is redistributed. Unchecked historical interview claims and unrun MAME probes remain leads, not verified findings.
+
+## G02 dimensional-aperture intake (2026-11-19)
+
+[G02-APERTURE-01](G02-APERTURE-01.md) registers local G02AP-S01–S07: I-C product specs, CELSYS 2014 support and current Japanese manual, Apple QuickTime/AV aperture documentation, EBU R 95 landing page/FAQ. R1 for bounded text observations; R0 model/lineage, no print or display testing. Existing SRC037/040/043 unchanged. Local IDs avoid concurrent SRC numbering conflicts.
