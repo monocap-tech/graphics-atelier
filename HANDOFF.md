@@ -2,6 +2,12 @@
 
 ## Current cursor
 
+**G06-F07 — documented historical crossings, 2026-11-18.** [F07 ledger](research/G06-FUNDAMENTALS-07.md) separates named maker inspiration, actual process/tool reuse, workforce transfer, and comparative historical inference. Archive Ōfuji/cutout/shadow and scholarly slide/multiplane history; 1985 *Space Harrier* Suzuki interviews identify *Space Cobra*, *NeverEnding Story*, Roger Dean alongside game-specific sprite memory needs; M2 E-mote 2009→2012/13 inherited editor; original 2015 *Guilty Gear Xrd* GDC PDF pp.27–28 **screenshotted and inspected**, showing old 2D sprite timing → manually posed 3D rigs; 2025 ASW describes anime-industry hires after original Xrd team; film/anime↔game personnel and knowledge transfer from Capcom, Monolith, Bandai Namco, Appirits, with separately adjacent pachinko LCD production. No single manga→anime→game genealogy, code execution or viewer evidence. **Next F08:** observation and craft of realistic/material phenomena, differing drawn, composited and simulated methods, prioritize lawful timed references. [STD01](docs/EFFECTS_STANDARD.md) remains eventual production quality gate; immediate impact/reveal target held, VIGIL held, G07 deferred, RT01/P07 debt only on reuse. Older cursors are archival.
+
+## Historical cursors — F01–F06 and other G06 decisions
+
+## Current cursor
+
 **G06-F06 — layered illustration/cutout/rigging, 2026-11-18.** [F06 source-led study](research/G06-FUNDAMENTALS-06.md) compares Live2D source PSD part separation and hidden-region redraw, ArtMeshes/deformers/parameters, Colorful Palette's *Project SEKAI* creator pipeline and event-synchronized expressive eyelids, M2's developer-testified 2009 multi-joint motion-editor → 2012/13 *Witch's Garden* E-mote lineage, SpriteStudio 2013→2015 particle editor→2017/18 bone/deform releases, and Spine skeleton/mesh comparator. It is **not** a tool selection, rig execution, measured performance/audience effect or manga→anime→game origin proof. **Next F07:** reconstruct historically accountable routes of technique/personnel/tool circulation (including cutout, photographic movement, Flash, sprite-game development) and contradictions before the distinct 'realistic phenomena' study. Current art-to-runtime contract [G02-P01](research/studies/G02-P01.md) is still proposed; G06 [STD01](docs/EFFECTS_STANDARD.md) governs future practical claims. VIGIL held, G07 deferred, RT01/P07 only on reuse. Earlier cursors below are archival.
 
 ## Historical cursors — F01–F05 and previous G06 decisions, not active tasks
