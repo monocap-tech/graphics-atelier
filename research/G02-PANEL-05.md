@@ -40,3 +40,7 @@ Next bounded question: determine whether an inspectable game-native panel/cut-in
 - PN05-S06 [Krita developer account, Wolthera, 2018](https://wolthera.info/2018/03/more-comics-management-making-proper-acbf-files/), R1 indexed description corroborating approximation and independent geometry; full article not audited.
 
 No external source code, sample XML, artwork, binaries or other third-party assets incorporated; references plus original mathematical summaries only.
+
+## Game-native comparator follow-up
+
+[G02-PANEL-06](G02-PANEL-06.md) qualifies Panoply's pinned rectangular multi-camera, artwork and step-control source, SpriteStudio 6 documented animated cut-in masks and Gravity Daze 2's production tradeoff. Immediate comparator survey ends here at R1; consolidate into existing G02/G09 when useful, no new renderer or prototype mandated.

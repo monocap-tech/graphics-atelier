@@ -165,3 +165,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G02 serialized apertures (2026-11-19)
 
 [G02-PANEL-05](G02-PANEL-05.md) registers PN05-S01–S06, pinned ACBF/Krita/panel-by-panel source, sample point-list arithmetic, EPUB regional navigation spec and developer account. No artwork, source files or binary imported; no executed export/player.
+
+## G02 game-native panel authoring (2026-11-19)
+
+[G02-PANEL-06](G02-PANEL-06.md) registers PN06-S01–S08: pinned Panoply static source, user manual (screenshot failed), Japanese SpriteStudio 6 mask/Unity Native documentation and Gravity Daze 2 CEDEC reports. No runtime or SS6 player source test. No code or artwork imported.

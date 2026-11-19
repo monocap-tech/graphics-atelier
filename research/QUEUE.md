@@ -119,3 +119,5 @@ A 30–60 second directed hybrid scene containing illustrative space, an origina
 **G02 panel adaptation — [G02-PANEL-04](G02-PANEL-04.md):** content/panel/behavior separation in mobile comic tools, retrospective caveat about isolation, editorial adaptation and game demo authoring roles. Next bounded public authoring-format/sample-player inspection; keep historical layered-page gap and other cursors separate. No new prototype or standard adopted.
 
 **G02 panel serialization — [G02-PANEL-05](G02-PANEL-05.md):** metadata polygon, crop/resize transfer, bounding-box focus and ordered region navigation traced in public source. Next bounded game-native layered authoring/playback comparator or stop and consolidate; no prototype required and prior cursors unchanged.
+
+**G02 panel authoring — [G02-PANEL-06](G02-PANEL-06.md):** comparator survey stopped at R1 after multi-camera/independent authoring tracks, animated masks and revision-aware presentation choices. Next bounded consolidation into existing G02-P01/G09 handoff when target is selected; no standalone prototype, no mandatory new tool. Historical shōjo specimen remains pending; other cursors unchanged.
