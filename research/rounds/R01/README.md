@@ -1,12 +1,12 @@
 # Graphics Atelier — Round 01 research series
 
-**Date chartered:** 2026-11-18. **State:** six independent R0 research-series charters; no new research findings or R2/R3 completions implied.
+**Date chartered:** 2026-11-18. **State:** six independent series charters. **S01 active** with first R1 source-qualification record; S02–S06 remain unlaunched. No R2/R3 production or perception results implied.
 
 This is the **first round of parallel investigations**, not six sprints, six mandatory prototypes, a ranked competition, or a prerequisite chain. The shared problem is representational custody: how visual intentions are specified, remade, presented and sustained from source art through target media. Each series is permitted to develop its *own sequence* of numbered subinvestigations, source notebooks, independent comparisons, counterexamples and revised questions. Depth is favored over artificial breadth or simultaneous completion.
 
 | Series | Independent line of inquiry | Principal existing interface |
 |---|---|---|
-| [GA-R01-S01](S01-illustration-specification.md) | Illustration specifications and design custody | G02 / VG08 |
+| [GA-R01-S01](S01-illustration-specification.md) · [S01-01](S01-01-source-packets.md) | Illustration specifications and design custody — first source study active | G02 / VG08 |
 | [GA-R01-S02](S02-deformation-and-appeal.md) | Deformation and representational appeal | G02 / VG01, VG06 |
 | [GA-R01-S03](S03-temporal-distribution.md) | Temporal distribution of visual information | G02 / G03, VG02 |
 | [GA-R01-S04](S04-material-abstraction.md) | Material and lighting cue abstraction | G02 / G01, G06 boundary |
@@ -31,4 +31,4 @@ A series can remain in discovery across multiple papers/interviews, pause for ar
 
 ## Current disposition
 
-**All six series are chartered and queued, not launched.** No preferred first series is binding; S01 and S02 are natural starting points based on the preceding discussion, but source availability may determine actual order. A future cross-series synthesis should wait for sufficiently comparable primary findings and original evidence, not merely the passage of a round.
+**GA-R01-S01 is now active:** [S01-01](S01-01-source-packets.md) compared actual publicly described commercial and independent briefs and an adjacent-domain contract-specification template; the record is R1 for bounded observations and explicitly leaves the real sprite-variant/editable handoff open. **S02–S06 are chartered and remain unlaunched.** No forced series order or accelerated synthesis is adopted. A future cross-series synthesis should wait for sufficiently comparable primary findings and original evidence, not merely the passage of a round.
