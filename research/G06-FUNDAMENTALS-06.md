@@ -1,6 +1,6 @@
 # G06-F06 — Illustrated motion: cutout, parameterized deformation, skeletal rigging and actual lineage fragments
 
-Date: 2026-11-18. **Status: foundational source-led R1, with official tool diagrams/readable examples; NO new rig, model, project, preview run, art procurement or audience test.** Continues [F01–F04 manga](G06-FUNDAMENTALS-04.md) and [F05 drawn animation](G06-FUNDAMENTALS-05.md), while bridging [G02-P01 illustration procurement and adaptation](studies/G02-P01.md) and [G03 multipart art](G00-A04.md) where extant. The point is **what the artist makes editable**, not a new tool recommendation or a presumption that rigging replaces drawing. [STD01](../docs/EFFECTS_STANDARD.md) governs eventual production testing, not this research sequence.
+Date: 2026-11-18. **Status: foundational source-led R1, with official tool diagrams/readable examples; NO new rig, model, project, preview run, art procurement or audience test.** Continues [F01–F04 manga](G06-FUNDAMENTALS-04.md) and [F05 drawn animation](G06-FUNDAMENTALS-05.md), while bridging [G02-P01 illustration procurement and adaptation](studies/G02-P01.md) and the existing G03 multipart-art inquiry. The point is **what the artist makes editable**, not a new tool recommendation or a presumption that rigging replaces drawing. [STD01](../docs/EFFECTS_STANDARD.md) governs eventual production testing, not this research sequence.
 
 ## Foundational question
 
