@@ -2,6 +2,12 @@
 
 ## Current cursor
 
+**G06-F06 — layered illustration/cutout/rigging, 2026-11-18.** [F06 source-led study](research/G06-FUNDAMENTALS-06.md) compares Live2D source PSD part separation and hidden-region redraw, ArtMeshes/deformers/parameters, Colorful Palette's *Project SEKAI* creator pipeline and event-synchronized expressive eyelids, M2's developer-testified 2009 multi-joint motion-editor → 2012/13 *Witch's Garden* E-mote lineage, SpriteStudio 2013→2015 particle editor→2017/18 bone/deform releases, and Spine skeleton/mesh comparator. It is **not** a tool selection, rig execution, measured performance/audience effect or manga→anime→game origin proof. **Next F07:** reconstruct historically accountable routes of technique/personnel/tool circulation (including cutout, photographic movement, Flash, sprite-game development) and contradictions before the distinct 'realistic phenomena' study. Current art-to-runtime contract [G02-P01](research/studies/G02-P01.md) is still proposed; G06 [STD01](docs/EFFECTS_STANDARD.md) governs future practical claims. VIGIL held, G07 deferred, RT01/P07 only on reuse. Earlier cursors below are archival.
+
+## Historical cursors — F01–F05 and previous G06 decisions, not active tasks
+
+## Current cursor
+
 **G06-F05 — effects animation as drawn movement, exposure and compositing (2026-11-18).** [F05 research record](research/G06-FUNDAMENTALS-05.md) inspected Toei's official production/role definitions, Kyoto Animation's named-film making-of, Ozawa's 2019 fire/smoke instructions plus original publisher images (single-genga split SL smoke, A/B/C/D layers), Wacom Inaba creator account, Toei/CELSYS digital timesheet and official agency transcript. Differentiate エフェクト作画, 原画/動画, 特殊効果 and 撮影; Kyoto reports film-specific environmental effects generated in compositing. P.A.WORKS/Inoue restricted movie not watched or shared; full timed clips, editable art and studio integration not obtained. No new programmatic prototype, psychological audience result or direct manga→anime→game genealogy. **Next F06:** layered illustration / cutout articulation / rigging independently, then investigate documented named medium crossings, eventually naturalistic effect practice and game production. [STD01](docs/EFFECTS_STANDARD.md) remains eventual production gate, not command to create new vignettes. VIGIL held, G07 deferred, P07/RT01 debt upon reuse. All previous cursors are archived.
 
 ## Earlier historical cursors — not current instructions
