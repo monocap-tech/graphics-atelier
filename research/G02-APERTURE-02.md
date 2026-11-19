@@ -49,3 +49,7 @@ Add registration reference, nominal and swept viewport bounds, and source-to-out
 - G02AP2-S06: 泉津井陽一, [もっとアニメを知るための撮影講座 第３回](https://animestyle.jp/2016/02/22/9799/), 2016-02-22, R1 practitioner text; no project materials reproduced.
 
 No commercial art, PDF, template source or images imported. R1 establishes documented anime/broadcast and raster-workflow relationships only; historical manga-to-game and anime-to-game transmission remain R0.
+
+## Game-native follow-up
+
+[G02-APERTURE-03](G02-APERTURE-03.md) qualifies separate game-native conventions (SUZUKI PLAN, Serial Games, CRI, Koei Tecmo patent and Akatsuki conference report). Manga paneling as explicit game-presentation inspiration is attested in a patent proposal; B4 dimensional inheritance remains unsupported.

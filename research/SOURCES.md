@@ -137,3 +137,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G02 animation-layout aperture qualification (2026-11-19)
 
 [G02-APERTURE-02](G02-APERTURE-02.md) records G02AP2-S01–S06 (SRC037 upgraded): AJA Fr01 specification, rationale PDF, inspected template, METI 2016 scan-resolution text (PDF screenshot unavailable), and two practitioner accounts. R1 source observations, no anime-to-game transfer proof. No source assets imported.
+
+## G02 game-native aperture intake (2026-11-19)
+
+[G02-APERTURE-03](G02-APERTURE-03.md) registers G02AP3-S01–S06: independent Famicom teaching, Serial Games 2025 production sizes, CRI 2007 Wii encoding (text only; screenshot failed), Koei Tecmo JP2020069317A paneling proposal, Akatsuki 2017 conference report and PC Engine mini interview. R1 bounded observations, no source art or runtime tests. Explicit manga technique influence in a patent proposal does not prove B4 dimensional genealogy.

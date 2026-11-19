@@ -29,6 +29,8 @@ See [G02-APERTURE-01](../research/G02-APERTURE-01.md) for the print/display comp
 
 [G02-APERTURE-02](../research/G02-APERTURE-02.md) supplies a documented adjacent-domain case: AJA Fr01 separates an A4 sheet, 16:9 main frame, optional 90% safe/110% scan regions and peg registration. A 2016 METI report explicitly maps the ten-inch main frame to 1920×1080 at 192 dpi. Record fixed registration, camera trajectory and swept aperture coverage separately from receiver-crop safety when pertinent. These numbers are not game defaults.
 
+[G02-APERTURE-03](../research/G02-APERTURE-03.md) adds actual game-production comparators: tile-quantized raster/safety guidance, oversized responsive backgrounds, app-dependent console video width and manga-inspired panel selection/cropping in a patent proposal. Model source-to-destination maps and local masks with display uncertainty, time, state and semantic cue anchors; distinguish physical visibility from UI occlusion. No new global dimensions adopted.
+
 ## Evidence and sequence
 
 G02-AUDIT-01.md records the reported Guilty Gear/GGX numerical comparison and the independent Maskedo scale convention; neither is a universal Japanese standard. It also describes the next candidate capture pass. Golden-section and A/JIS B paper modularity remain distinct hypotheses; simple fractions, genre, camera, print/animation layout and hardware constraints are competing explanations. No causal paper-to-game rule is established.
