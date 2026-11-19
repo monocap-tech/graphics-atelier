@@ -37,3 +37,5 @@ Candidate: an annotated measurement atlas and a set of proportional envelopes wi
 ## Adjacent institutional lead — 2026-11-19
 
 [G02-DIMENSIONAL-01](../../G02-DIMENSIONAL-01.md) qualifies American design-led metrication testimony and an installed-press procurement conflict; Cameron/RIT and NBS texts remain acquisition/reading leads. Compare units, dimensional modularity and cross-representation design continuity independently. Seek documented American/Japanese specifications and counterexamples, including hybrid conventions. Preserve the Vignellis as design inspirations, not proof of independent domestic recognition. This parallel intake does not launch S06 or displace the G02 aperture/specimen sequence.
+
+**Cross-domain synthesis (2026-11-19, not series launch):** [G02-COMPOSITION-01](../../G02-COMPOSITION-01.md) preserves geometric and representational custody of source, region, composition and output while separating narrative order and runtime clocks. R0 proposed contract from R1 source cases; no dimensions, historical genealogy or experimental outcomes adopted. First measurement inquiry remains the first bounded inquiry above.

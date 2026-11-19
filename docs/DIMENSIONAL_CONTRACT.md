@@ -31,6 +31,10 @@ See [G02-APERTURE-01](../research/G02-APERTURE-01.md) for the print/display comp
 
 [G02-APERTURE-03](../research/G02-APERTURE-03.md) adds actual game-production comparators: tile-quantized raster/safety guidance, oversized responsive backgrounds, app-dependent console video width and manga-inspired panel selection/cropping in a patent proposal. Model source-to-destination maps and local masks with display uncertainty, time, state and semantic cue anchors; distinguish physical visibility from UI occlusion. No new global dimensions adopted.
 
+## Composition and presentation custody (proposed consolidation, 2026-11-19)
+
+[G02-COMPOSITION-01](../research/G02-COMPOSITION-01.md) consolidates G02-APERTURE-01–03, G02-PANEL-01–06 and dimensional migration into a five-domain candidate source/geometry/composition/sequence/execution contract. Panel support, semantic polygon, fitted viewing rectangle and actual clip may differ. Declare coordinate frames and maps, sequence/co-visibility, independent progression clocks, source provenance, cue anchors and revision propagation only when a selected target requires them. Source evidence is R1 bounded; common schema is R0 and no tool or universal dimensions are adopted. G02-P01 original specimen and existing G09 validation gate remain governing.
+
 ## Evidence and sequence
 
 G02-AUDIT-01.md records the reported Guilty Gear/GGX numerical comparison and the independent Maskedo scale convention; neither is a universal Japanese standard. It also describes the next candidate capture pass. Golden-section and A/JIS B paper modularity remain distinct hypotheses; simple fractions, genre, camera, print/animation layout and hardware constraints are competing explanations. No causal paper-to-game rule is established.
