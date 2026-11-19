@@ -1,6 +1,6 @@
 # GA-R01-S01 — Illustration specification and design custody
 
-**Status:** chartered / R0 (2026-11-18); no independent investigation opened under this series yet.
+**Status:** active / opened 2026-11-18. The first source-led study [GA-R01-S01-01](S01-01-source-packets.md) is qualified at R1 for bounded commercial and independent brief observations; no complete sprite-delivery packet or production specimen is validated.
 
 **Core question:** What must a character/illustration specification communicate so that different practitioners can produce consistent, lawful and editable representations without treating the finished illustration as an exhaustive truth?
 
@@ -26,4 +26,4 @@ Begin with complete examples of lawful public production briefs, artist instruct
 
 A comparative specification atlas, vocabulary, variant-approval rubric and a minimal rights-aware editable brief are **candidate outputs**, not a required immediate deliverable. Any 'best practice' requires more than one company's anecdote. Crosslink [G02-P01](../../studies/G02-P01.md) and [G02-FEATURE-01](../../G02-FEATURE-01.md); do not confuse this with G06's effects scene authoring.
 
-**First bounded inquiry:** collect two genuinely inspectable character specification packets (ideally one commercial/one independent) and identify which fields can and cannot constrain a sprite adaptation.
+**First bounded inquiry:** [S01-01 source packets](S01-01-source-packets.md) now compares a commercial design-direction walkthrough, a public independent character brief, commissioning procedures and a government animation specimen specification. Exact individual passages and gaps are recorded. The series remains open for deeper approval, revision and cross-representation custody work.
