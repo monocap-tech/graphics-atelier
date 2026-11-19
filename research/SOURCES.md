@@ -157,3 +157,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G02 contrasting panel regimes (2026-11-19)
 
 [G02-PANEL-03](G02-PANEL-03.md) registers PN03-S01–S09. Substantive portions of Natsume translation qualified beyond abstract, Yonemura/Meiji style-illustration research, Hagio and Rurui(e) testimony, partial Takahashi catalog image and Fuku-chan instructional PDF screenshot. Exact layered-page and historical figure requests failed; no replicated audience result.
+
+## G02 panel presentation adaptation (2026-11-19)
+
+[G02-PANEL-04](G02-PANEL-04.md) registers PN04-S01–S11: CELSYS 2003/04 primary releases (2003 diagram inspected; 2004 screenshot failed), JEPA/ITmedia/2015 release, 2017 retrospective, IPA prototype report (figure screenshot failed), TOPPAN/DNP/Kato accounts and Gravity Daze 2 team testimony. R1 bounded evidence; no runtime, format decoding or complete historical layered page.

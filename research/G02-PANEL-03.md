@@ -45,3 +45,7 @@ Next bounded inquiry: acquire the still-missing complete layered specimen with i
 - PN03-S09 R1 creator interview: [Walkerplus, 留々家](https://www.walkerplus.com/special/fandomplus/article/1035141/), 2021; example pictures not inspected.
 
 No commercial images, PDFs or chapter text copied into repo. No test or asset procurement.
+
+## Screen-adaptation follow-up
+
+[G02-PANEL-04](G02-PANEL-04.md) qualifies early CELSYS mobile authoring tools, the IPA Manga Word Processor prototype, modern editorial adaptation and Gravity Daze 2 creator testimony. Complete historical layered specimen still pending; separate content, mask, presentation controls and editorial equivalence.
