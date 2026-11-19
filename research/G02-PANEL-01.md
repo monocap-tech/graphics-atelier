@@ -48,3 +48,7 @@ Candidate game correspondence: nested/irregular masks, time-staged panels or cut
 - G02PN-S10 R0: 永原康史 [コマとグリッド考](https://manba.co.jp/manba_magazines/4659), indexed snippet mentions different tier counts in different publication formats; full page 403, no substantive finding adopted.
 
 No third-party images or pages copied, no book purchased. Next: bounded comparative panel corpus/primary source inspection if this inquiry is activated, otherwise retained on queue.
+
+## First visual follow-up
+
+[G02-PANEL-02](G02-PANEL-02.md) records five inspected Furudate examples, a Sugaya image excerpt, historical/transnational text leads and a 2026 spacing study with negative experimental results. Separate compositional intention, visible geometry, reading order and actually measured effects. Shōjo and four-panel contrasting exemplars remain pending.

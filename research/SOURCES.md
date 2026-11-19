@@ -145,3 +145,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## Manga panel grammar intake (2026-11-19)
 
 [G02-PANEL-01](G02-PANEL-01.md) registers G02PN-S01–S10: Shogakukan instructional texts, Natsume lectures and translation abstract, Watsuki and Furudate interviews, METI exhibition text, KADOKAWA book metadata/TOC and blocked Nagahara lead. R1 bounded text only, R0 full-book/corpus and transfer questions. No panel images inspected or copied.
+
+## Panel grammar visual and empirical follow-up (2026-11-19)
+
+[G02-PANEL-02](G02-PANEL-02.md) registers PN02-S01–S07: five Furudate images, Sugaya excerpt, Natsume text, Ikeda text (PDF rendering failed), IPSJ 2026 spacing methods/results and two rendered pages, IEICE abstract and 2019 project/secondary report. R1 bounded; no replicated psychology result, original panel metrology or source art redistribution.
