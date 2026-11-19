@@ -141,3 +141,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G02 game-native aperture intake (2026-11-19)
 
 [G02-APERTURE-03](G02-APERTURE-03.md) registers G02AP3-S01–S06: independent Famicom teaching, Serial Games 2025 production sizes, CRI 2007 Wii encoding (text only; screenshot failed), Koei Tecmo JP2020069317A paneling proposal, Akatsuki 2017 conference report and PC Engine mini interview. R1 bounded observations, no source art or runtime tests. Explicit manga technique influence in a patent proposal does not prove B4 dimensional genealogy.
+
+## Manga panel grammar intake (2026-11-19)
+
+[G02-PANEL-01](G02-PANEL-01.md) registers G02PN-S01–S10: Shogakukan instructional texts, Natsume lectures and translation abstract, Watsuki and Furudate interviews, METI exhibition text, KADOKAWA book metadata/TOC and blocked Nagahara lead. R1 bounded text only, R0 full-book/corpus and transfer questions. No panel images inspected or copied.

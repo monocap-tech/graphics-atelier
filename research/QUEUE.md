@@ -107,3 +107,5 @@ Continue G00-A02 (independent raster instruction) and G02-A02 (bounded dimension
 ## Integrated demonstrator candidate
 
 A 30–60 second directed hybrid scene containing illustrative space, an original raster actor, articulated objects, polygonal scenery, procedural effects and a state-bound interface cue. A minimal live interaction may test presentation and cancellation. No campaign or progression requirement. Timing, budgets, style and acceptance thresholds remain provisional until target studies establish them. This demonstrates production integration, not historical equivalence or artistic mastery.
+
+**Parallel research lead — G02-PANEL-01 (2026-11-19):** [Manga panel morphology, sequence and visual grammar](G02-PANEL-01.md). R1 textual intake and candidate multi-axis corpus annotation; compare regular and irregular sequences, layering, time, page turns and format adaptation when activated. Adjacent to G02 aperture and G06 semantics, not a new series launch or replacement of existing cursors. No extra prototype required.

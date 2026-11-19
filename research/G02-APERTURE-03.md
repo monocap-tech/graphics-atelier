@@ -48,3 +48,7 @@ Next bounded inquiry: inspect specific public original developer art specificati
 - G02AP3-S06 R1 limited retrospective corroboration: [GAME Watch interview, PC Engine mini director 吉室](https://game.watch.impress.co.jp/docs/interview/1241110.html), 2020; consultations with original Hudson developers and change in Ys I/II display region reported, no exact geometry or original intent specification available.
 
 No copied third-party art, PDFs, secret SDK or private material. No claim of JP universal method.
+
+## Parallel panel grammar intake
+
+[G02-PANEL-01](G02-PANEL-01.md) studies the manga panel as a semantic, sequential and layered compositional unit independently of aperture geometry. This does not replace the next source-frame/registration-to-runtime question.
