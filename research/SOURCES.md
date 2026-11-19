@@ -161,3 +161,7 @@ See [G00-A02](G00-AUDIT-02.md) for SRC046–053 and additional SRC005/SRC044 qua
 ## G02 panel presentation adaptation (2026-11-19)
 
 [G02-PANEL-04](G02-PANEL-04.md) registers PN04-S01–S11: CELSYS 2003/04 primary releases (2003 diagram inspected; 2004 screenshot failed), JEPA/ITmedia/2015 release, 2017 retrospective, IPA prototype report (figure screenshot failed), TOPPAN/DNP/Kato accounts and Gravity Daze 2 team testimony. R1 bounded evidence; no runtime, format decoding or complete historical layered page.
+
+## G02 serialized apertures (2026-11-19)
+
+[G02-PANEL-05](G02-PANEL-05.md) registers PN05-S01–S06, pinned ACBF/Krita/panel-by-panel source, sample point-list arithmetic, EPUB regional navigation spec and developer account. No artwork, source files or binary imported; no executed export/player.

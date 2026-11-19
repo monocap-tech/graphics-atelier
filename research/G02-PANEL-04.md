@@ -49,3 +49,7 @@ For target k, require source support coverage under all declared transforms, pro
 - PN04-S11 R1 firsthand game staff statements: [Famitsu 2017-01-18 Gravity Daze 2](https://www.famitsu.com/news/201701/18125036.html), 森田/堀 entries.
 
 No source PDF, artwork or copyrighted asset redistributed. No software binaries or runtime test.
+
+## Source/runtime follow-up
+
+[G02-PANEL-05](G02-PANEL-05.md) traces ACBF schema/sample XML, pinned Krita export code and a guided reader's polygon-to-bounds conversion, plus EPUB navigation. Static inspection and metadata arithmetic, no runtime or original CELSYS format recovery.

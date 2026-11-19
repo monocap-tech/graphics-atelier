@@ -117,3 +117,5 @@ A 30–60 second directed hybrid scene containing illustrative space, an origina
 **G02 panel contrast — [G02-PANEL-03](G02-PANEL-03.md):** fixed four-panel sequence vs layered narrative and independent character illustration. One strip and partial lyrical manga image seen; exact complete layered specimen still pending. Next bounded acquisition and publication-to-screen comparison, not a new implementation or replacement of other research cursors.
 
 **G02 panel adaptation — [G02-PANEL-04](G02-PANEL-04.md):** content/panel/behavior separation in mobile comic tools, retrospective caveat about isolation, editorial adaptation and game demo authoring roles. Next bounded public authoring-format/sample-player inspection; keep historical layered-page gap and other cursors separate. No new prototype or standard adopted.
+
+**G02 panel serialization — [G02-PANEL-05](G02-PANEL-05.md):** metadata polygon, crop/resize transfer, bounding-box focus and ordered region navigation traced in public source. Next bounded game-native layered authoring/playback comparator or stop and consolidate; no prototype required and prior cursors unchanged.
