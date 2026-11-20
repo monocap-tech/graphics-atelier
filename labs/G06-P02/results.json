@@ -1,0 +1,199 @@
+{
+  "authoring_hz": 24,
+  "output_hz": 60,
+  "radii": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10,
+    12
+  ],
+  "rows": [
+    {
+      "id": "impulse_then_settle",
+      "holds": [
+        1,
+        1,
+        1,
+        2,
+        3,
+        5,
+        11
+      ],
+      "radii_by_tick": [
+        0,
+        2,
+        4,
+        6,
+        6,
+        8,
+        8,
+        8,
+        10,
+        10,
+        10,
+        10,
+        10,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12
+      ],
+      "duration_ticks": 24,
+      "unique_poses": 7,
+      "first_radius_10_tick": 8,
+      "first_radius_12_tick": 13,
+      "mean_radius": 9.333333333333334,
+      "pose_transitions": 6
+    },
+    {
+      "id": "wait_then_release",
+      "holds": [
+        11,
+        5,
+        3,
+        2,
+        1,
+        1,
+        1
+      ],
+      "radii_by_tick": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        6,
+        6,
+        8,
+        10,
+        12
+      ],
+      "duration_ticks": 24,
+      "unique_poses": 7,
+      "first_radius_10_tick": 22,
+      "first_radius_12_tick": 23,
+      "mean_radius": 2.6666666666666665,
+      "pose_transitions": 6
+    },
+    {
+      "id": "uniform_control",
+      "holds": [
+        3,
+        4,
+        3,
+        4,
+        3,
+        4,
+        3
+      ],
+      "radii_by_tick": [
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        6,
+        6,
+        6,
+        6,
+        8,
+        8,
+        8,
+        10,
+        10,
+        10,
+        10,
+        12,
+        12,
+        12
+      ],
+      "duration_ticks": 24,
+      "unique_poses": 7,
+      "first_radius_10_tick": 17,
+      "first_radius_12_tick": 21,
+      "mean_radius": 6,
+      "pose_transitions": 6
+    }
+  ],
+  "sampling": [
+    {
+      "id": "impulse_then_settle",
+      "presentation_counts": [
+        3,
+        2,
+        3,
+        5,
+        7,
+        13,
+        27
+      ],
+      "all_poses_seen": true,
+      "total_frames": 60
+    },
+    {
+      "id": "wait_then_release",
+      "presentation_counts": [
+        28,
+        12,
+        8,
+        5,
+        2,
+        3,
+        2
+      ],
+      "all_poses_seen": true,
+      "total_frames": 60
+    },
+    {
+      "id": "uniform_control",
+      "presentation_counts": [
+        8,
+        10,
+        7,
+        10,
+        8,
+        10,
+        7
+      ],
+      "all_poses_seen": true,
+      "total_frames": 60
+    }
+  ],
+  "checks": {
+    "equal_total_duration": true,
+    "same_pose_library": true,
+    "equal_endpoints": true,
+    "distinct_arrival": true,
+    "same_render_duration": true,
+    "no_pose_skipped_at_60": true
+  }
+}

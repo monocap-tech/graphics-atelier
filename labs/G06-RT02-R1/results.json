@@ -1,0 +1,117 @@
+{
+  "rows": [
+    {
+      "name": "baseline",
+      "old_pass": true,
+      "new_pass": true,
+      "reason": null,
+      "max_channel_error": {
+        "ornament": 1,
+        "field": 1,
+        "device": 1,
+        "ui": 1
+      }
+    },
+    {
+      "name": "blank_motif",
+      "old_pass": true,
+      "new_pass": false,
+      "reason": "motif identity",
+      "max_channel_error": null
+    },
+    {
+      "name": "all_four_same_anchor",
+      "old_pass": true,
+      "new_pass": false,
+      "reason": "field anchor",
+      "max_channel_error": null
+    },
+    {
+      "name": "swap_ornament_device",
+      "old_pass": true,
+      "new_pass": false,
+      "reason": "ornament anchor",
+      "max_channel_error": null
+    },
+    {
+      "name": "omit_motif_from_composite",
+      "old_pass": true,
+      "new_pass": false,
+      "reason": "ornament recorded invariants",
+      "max_channel_error": null
+    },
+    {
+      "name": "remove_base_scene",
+      "old_pass": true,
+      "new_pass": false,
+      "reason": "base identity",
+      "max_channel_error": null
+    },
+    {
+      "name": "uniform_unintended_motif_color",
+      "old_pass": true,
+      "new_pass": false,
+      "reason": "motif identity",
+      "max_channel_error": null
+    },
+    {
+      "name": "misplace_composite_only",
+      "old_pass": false,
+      "new_pass": false,
+      "reason": "original assertion",
+      "max_channel_error": null
+    },
+    {
+      "name": "change_one_overlay_color",
+      "old_pass": false,
+      "new_pass": false,
+      "reason": "original assertion",
+      "max_channel_error": null
+    },
+    {
+      "name": "missing_output",
+      "old_pass": true,
+      "new_pass": false,
+      "reason": "missing field.png",
+      "max_channel_error": null
+    },
+    {
+      "name": "stale_other_variant",
+      "old_pass": true,
+      "new_pass": false,
+      "reason": "field exact changed support",
+      "max_channel_error": null
+    },
+    {
+      "name": "tampered_report",
+      "old_pass": true,
+      "new_pass": false,
+      "reason": "ornament recorded invariants",
+      "max_channel_error": null
+    },
+    {
+      "name": "stale_plate",
+      "old_pass": true,
+      "new_pass": false,
+      "reason": "ornament plate consistency",
+      "max_channel_error": null
+    },
+    {
+      "name": "wrong_motif_only_position",
+      "old_pass": true,
+      "new_pass": false,
+      "reason": "motif identity",
+      "max_channel_error": null
+    },
+    {
+      "name": "one_channel_corrupt",
+      "old_pass": true,
+      "new_pass": false,
+      "reason": "device source-over residual",
+      "max_channel_error": null
+    }
+  ],
+  "detected_original": 8,
+  "detected_additional": 6,
+  "limits": "Pinned decoded identity is fixture/version specific. Post-export mutations occurred after original checks. No semantic or general defect-coverage claim."
+}

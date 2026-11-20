@@ -1,0 +1,51 @@
+# G02-PANEL-03 — Layered space, style illustrations and fixed sequence
+
+2026-11-19. Follow-up to [G02-PANEL-02](G02-PANEL-02.md). R1 bounded source observations; no independently measured reader responses, no runtime implementation. The two contrasting forms are analytical comparators, not mutually exclusive genres.
+
+## A. Natsume's chapter recovered
+
+Holt/Fukuda's 2020 translation of Natsume's 1997 chapter is now accessible as substantive article text via Gale, rather than only the PSU abstract (upgrade G02PN-S05 for text). In the sections on encapsulation/layering and break space, Natsume analyzes Sakurazawa Erika's Watashi ni yasashii yoru (1989–90): present-day dance vignettes embedded in childhood recollections, with ordered text but weak ordering among dance images. Kuwata Noriko's Hogureyuku watashi (1993) has an expanded blank region and overlapping empty frames functioning as a rhythmic transition. In Takahashi Rumiko's Maison Ikkoku, both lovers' faces can be seen from different angles at a shared moment; the empty region is interpreted as slowing the reception of a response. These are Natsume's analyses, not creator testimony or measured effects. Figures unavailable in Gale text; the METI exhibit's exact Maison Ikkoku v15 p147 asset was located but its image fetch failed. The exhibit also identifies Hagio's Heart of Thomas (Shogakukan bunko 1995, p88); its artwork was not inspected.
+
+Naihō (panel encapsulation), jūsō (layering), and mahaku (expressive break space) separate the ordering of narrative events, text, image support, and spatial persistence. Natsume does not claim empty space always means timelessness. The proposed semantic model must allow simultaneously visible components that belong to different narrative strata, and blank regions that carry expression. Retain PN02's null results for tested gutter-width effects; no fixed duration or universal emotion mapping follows.
+
+Hagio, in a 2022 Tezuka official interview, recalls relatively regular older panel layouts, Tezuka's varied framing, and the increasingly border-free musical quality of shōjo layouts; she notes difficulty for readers unfamiliar with the grammar. First-person recollection, not universal genre rule.
+
+## B. Historical precursor: style illustration (スタイル画)
+
+Yonemura Noriko, 2019, Genealogy of Style-Ga: The Case of Shōjo Club Magazine, §§1–5, reports the commonly cited Takahashi Macoto 1958 Arashi o koete precedent and complicates a single-inventor genealogy. The early Shōjo usage of スタイル絵 often referred to readers' copies of the artist's model rather than the original. Full-length pictures could be independent of the story's actual time, place or costume; copying competitions and nonnarrative fashion gratification helped sustain the practice. Other cases include Higashiura Mitsuo's Doko ni aoi tori (June 1958, p25), Chiba Tetsuya's separate supplement samples, and illustrator Hyūga Fusako's illustrated fiction and reader submissions. These are the author's archival reports; not independently verified against original magazine copies. Distinguish commercial fashion drawings and manga insertions. The author's research introduction explicitly marks the 1960s transition as historically underexplored. Do not claim an uninterrupted inventor-to-1970s lineage.
+
+Meiji University's Yonezawa library exhibition, section 3, describes Maki Miyako's fashion drawings and offers the artist Takahashi's recollection of composing spreads freely of panel division. This is curator-mediated testimony. The exhibition names Tokyo–Paris (September 1958) and Kanna no hoshi (July 1966) as comparators. The linked examples were not visually inspected. Kyushu University's PDF screenshots and HTML figure requests failed. No independent visual claims from those images.
+
+PN03-V01: auction catalog Arashi o koete May 1958 supplement listing (Mandarake item 667043), image 0002171930.jpeg returned in image search and inspected: a partial page with an upper band of framed railway imagery and a large character portrait surrounded by decorative outlines of toys/figures, text within the field. It does not show the canonical three-tier full-body style illustration; edition/page and publication geometry not independently measured. Use only as bounded evidence of lyrical decorative space interrupting literal environmental continuity. No complete layered shōjo spread was successfully visually inspected in this pass; that gate remains pending.
+
+Interpretive connection to game character standing illustrations (tachie), cut-ins, fashion/costume displays and persistent character art: a figure can have compositional importance independent of advancement of plot or simulated world time. Functional analogy only; no historical manga-to-game lineage proven. Do not impose a game UI interpretation on the original manga.
+
+## C. Four-panel comparator: fixed outer geometry
+
+PN03-V02: reproduced Yokoyama Ryūichi Fuku-chan strip in the one-page 4コマまんがの描き方 基本編 instructional PDF; screenshot page 1 successfully inspected. Four equal-looking vertically arranged rectangular panels with narrow horizontal gutters; no physical measurement. Panel 1 two figures and a small candy object; panel 2 closer cropped figures and explanation of an ant experiment; panel 3 figure sits watching the candy while the other departs; panel 4 different composition showing candy-related activity at a tap. The guide labels stages 起・承・転・結 and explicitly invites breaking its basic pattern. Preserve stable exterior geometry vs changed internal framing, object continuity, character allocation, and final reinterpretation. No claim of fixed seconds between panels, or mandatory humorous ending. The guide's explanatory labels are external pedagogical overlays, not original cartoon dialogue.
+
+Rurui(e) (留々家) 2021 interview: short form suits narrative control and fixed panel allocation reduces layout decisions; starts from recognizable conventions (お約束) and questions how punchline and kishōtenketsu are defined. Individual creator testimony, not a universal definition. Four equally sized panels do not mean equal narrative duration, and kishōtenketsu functions need not map mechanically to every four-panel strip. Do not equate with four camera cuts or a mandatory game state machine.
+
+## D. Candidate comparative formalism
+
+Separate aperture geometry P_i, support and mask, z-order, presentation persistence/duration, text reading precedence, narrated event relation, and referent (world, recall, subjective, illustration, symbolic interval). A display layer may have null or nonunique event time; distinct source views may refer to one event. A fixed-geometry strip varies content and internal camera/framing across slots; a layered composition can change both geometry and narrative strata. In runtime, a fixed sequence could vary information release while an illustration layer persists across event updates. Actual display schedules and player interaction must be specified separately; a paper reader sees multiple panels at once. No prototype required.
+
+Next bounded inquiry: acquire the still-missing complete layered specimen with identified edition, preferably an author/curator-linked example (Tachikake Hideko 1977 recall or Hagio p88); compare one actual complete strip and one complete layered page with explicit reading alternatives. Then examine publication-to-screen adaptations (single-page phone crop, vertical scroll, or game dialogue/cut-in) using concrete authoring examples. Reserve G02 dimensional/capture, G06 and AM2 work; no new mandatory series or fixed standard.
+
+## Sources (accessed 2026-11-19)
+
+- PN03-S01 R1 substantive text: Natsume, Holt/Fukuda, [Panel Configurations in Shojo Manga](https://go.gale.com/ps/i.do?asid=45069662&id=GALE%7CA677877936&it=r&p=AONE&u=googlescholar&v=2.1), U.S.-Japan Women's Journal 58 (2020), DOI 10.1353/jwj.2020.0005. Portions on encapsulation/layering and break space read, figures not seen; supersedes abstract-only status in PN01 for these portions.
+- PN03-S02 R1 maker interview: [Tezuka official, Hagio part 2](https://tezukaosamu.net/jp/mushi/entry/26374.html), section on paneling, 2022.
+- PN03-S03 R1 curatorial text: [METI, マンガの文法](https://artsandculture.google.com/story/EAWB4YvyVDqJJQ?hl=ja), Miwa Kentarō, edited Miyazaki, supervised Miyamoto, 2020; [Maison Ikkoku page asset](https://artsandculture.google.com/asset/takahashi-rumiko-1980-%E2%80%9Cmaison-ikkoku%E2%80%9D-vol-15-p-147/rgEhPXoeYnWY6w?hl=ja) image failed.
+- PN03-S04 R1 bounded text: Yonemura Noriko, [「スタイル画」の系譜](https://www.design.kyushu-u.ac.jp/_cms_dir/wp-content/uploads/2025/02/78fb71566b76d4c0af2ed1a179b03f26.pdf), Geijutsu Kogaku 30 (2019), excerpts §§1–5; PDF screenshot attempts failed; no full article audit.
+- PN03-S05 R1 [Kyushu University research introduction](https://www.kyushu-u.ac.jp/ja/research/information/design/2019/design31/), 2019; figure requests 370/374/375 failed.
+- PN03-S06 R1 curated text: [Meiji University Yonezawa Library shōjo manga exhibit, corner 3](https://www.meiji.ac.jp/manga/yonezawa_lib/exh_shoujomanga/corner03.html), style illustration sections.
+- PN03-S07 R1 partial visual and catalog metadata: [Mandarake May 1958 supplement](https://k.mandarake.co.jp/auction/item/itemInfoJa.html?index=667043), image https://img.mandarake.co.jp/aucimg/1/9/3/0/0002171930.jpeg. No exact page or full spread custody.
+- PN03-S08 R1 text and screenshot: [4コマまんがの描き方 基本編](https://www.kfca.jp/app-def/S-102/wordpress/wp-content/uploads/2016/04/yonkomakakikata.pdf), one-page handout, visible Fuku-chan example.
+- PN03-S09 R1 creator interview: [Walkerplus, 留々家](https://www.walkerplus.com/special/fandomplus/article/1035141/), 2021; example pictures not inspected.
+
+No commercial images, PDFs or chapter text copied into repo. No test or asset procurement.
+
+## Screen-adaptation follow-up
+
+[G02-PANEL-04](G02-PANEL-04.md) qualifies early CELSYS mobile authoring tools, the IPA Manga Word Processor prototype, modern editorial adaptation and Gravity Daze 2 creator testimony. Complete historical layered specimen still pending; separate content, mask, presentation controls and editorial equivalence.

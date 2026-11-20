@@ -1,0 +1,103 @@
+{
+  "samples": [
+    {
+      "background": 0,
+      "live": 0.45,
+      "split": 0.45,
+      "normalOnlyMax": 0.25
+    },
+    {
+      "background": 0.2,
+      "live": 0.6,
+      "split": 0.6,
+      "normalOnlyMax": 0.4
+    },
+    {
+      "background": 0.4,
+      "live": 0.75,
+      "split": 0.75,
+      "normalOnlyMax": 0.55
+    },
+    {
+      "background": 0.6,
+      "live": 0.9,
+      "split": 0.9,
+      "normalOnlyMax": 0.7
+    }
+  ],
+  "inferredAlpha": 0.25,
+  "inferredColor": 1.8,
+  "rows": [
+    {
+      "background": 0.12,
+      "glow": 0,
+      "front_signed_difference": 0.74,
+      "behind_signed_difference": 0.74,
+      "budgeted_signed_difference": 0.74
+    },
+    {
+      "background": 0.12,
+      "glow": 0.35,
+      "front_signed_difference": 0.53,
+      "behind_signed_difference": 0.39,
+      "budgeted_signed_difference": 0.51
+    },
+    {
+      "background": 0.12,
+      "glow": 0.75,
+      "front_signed_difference": 0.13,
+      "behind_signed_difference": -0.01,
+      "budgeted_signed_difference": 0.51
+    },
+    {
+      "background": 0.5,
+      "glow": 0,
+      "front_signed_difference": 0.36,
+      "behind_signed_difference": 0.36,
+      "budgeted_signed_difference": 0.51
+    },
+    {
+      "background": 0.5,
+      "glow": 0.35,
+      "front_signed_difference": 0.15,
+      "behind_signed_difference": 0.01,
+      "budgeted_signed_difference": 0.51
+    },
+    {
+      "background": 0.5,
+      "glow": 0.75,
+      "front_signed_difference": 0,
+      "behind_signed_difference": -0.14,
+      "budgeted_signed_difference": 0.51
+    },
+    {
+      "background": 0.75,
+      "glow": 0,
+      "front_signed_difference": 0.11,
+      "behind_signed_difference": 0.11,
+      "budgeted_signed_difference": 0.51
+    },
+    {
+      "background": 0.75,
+      "glow": 0.35,
+      "front_signed_difference": 0,
+      "behind_signed_difference": -0.14,
+      "budgeted_signed_difference": 0.51
+    },
+    {
+      "background": 0.75,
+      "glow": 0.75,
+      "front_signed_difference": 0,
+      "behind_signed_difference": -0.14,
+      "budgeted_signed_difference": 0.51
+    }
+  ],
+  "checks": {
+    "split_matches": true,
+    "all_unclipped": true,
+    "single_normal_requires_out_of_range_color": true,
+    "foreground_can_erase_difference": true,
+    "behind_not_sufficient": true,
+    "budgeted_positive_for_fixture": true
+  }
+}
