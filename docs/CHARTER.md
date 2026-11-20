@@ -1,10 +1,18 @@
-# Research charter (provisional v0.1)
+# Research charter (provisional v0.2)
 
-Date: 2026-11-17
+Original charter: 2026-11-17. Programme-level revision proposed: 2026-11-20. Existing investigations retain their historical criteria and evidence.
 
 ## Objective
 
-Reconstruct, qualify and operationalize methods for producing original graphics and interactive presentation at the level of sophistication observable in selected Japanese commercial and doujin games, as feasible for an independent developer. The object of reconstruction is production capacity, not a commercial asset or the exact history of a studio.
+Investigate, qualify and operationalize the relations between **artistic intention, representation, perception, computation, production and presentation** that make graphical quality possible in specified contexts. Recover independently usable capacity to originate, construct, judge, revise and sustain original graphical work with obtainable evidence and feasible tools. Selected Japanese commercial and doujin work remains a major case corpus, not the standard by which every technology, medium or production must be judged.
+
+The object of reconstruction is production capability and its conditions, not a commercial asset, an entire studio history or a compulsory historical implementation. See [programme map](PROGRAMME.md) and [methods and quality](METHODS_AND_QUALITY.md).
+
+## Quality and jurisdiction
+
+A minimum acceptable graphical **outcome** is defined by its declared artistic and operational requirements, under representative viewing/use conditions. A minimum **productive capability** concerns an author's ability to make, inspect, correct and maintain such outcomes. Neither is a fixed resolution, stylistic canon, technology, amount of detail or cross-project numeric score. Requirements may differ by medium and intended experience; exceptions and intentional excess can be legitimate.
+
+Mathematics and computation can establish formal properties and costs; perceptual studies can measure observer outcomes under test conditions; artistic practice can construct and critically revise intended qualities; production evidence can establish handoff/rework feasibility; historical sources can document situated methods and transmission. These jurisdictions interact but are not interchangeable. No lane's success proves another lane, and no single institution or discipline governs them all.
 
 ## Scope
 

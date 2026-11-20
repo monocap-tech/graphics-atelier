@@ -1,4 +1,7 @@
-# Research handoff — 2026-11-18
+# Research handoff — historical research chronology (opened 2026-11-18)
+
+> **Current routing as of 2026-11-20:** use [research/ACTIVE.md](research/ACTIVE.md) for present priorities, [docs/PROGRAMME.md](docs/PROGRAMME.md) for the governing research organization, and [docs/METHODS_AND_QUALITY.md](docs/METHODS_AND_QUALITY.md) for method/quality distinctions. The dated notes and repeated “current cursor” headings below are retained as an audit trail, **not simultaneously active instructions**. The G02 Unity/artistic acceptance gate is the immediate proposed next operation; G06 keeps its independent STD01 criteria, Round 01 series retain their independence, and the separate AM2 technical work remains case-specific. No completed experiment or new proof is implied by this routing change.
+
 
 > **Research programme, Round 01:** [Six series charters](research/rounds/R01/README.md) independently cover illustration specifications/design custody; deformation and appeal; temporal visual detail; material abstraction; production organization; and proportions/dimensional conventions. **S01 is active:** [S01-01](research/rounds/R01/S01-01-source-packets.md) qualifies Akatsuki, GIKUTAS, an independent published character brief, another developer's commissioning guide and an Agency for Cultural Affairs animation specification template. R1 at most for source claims; no full asset-production handoff or sprite-adaptation result. S02–S06 remain chartered, unlaunched. No forced sequence, schedule or premature universal doctrine. G02-FEATURE-01 remains an intake. Existing G06 cursor and separate Suzuki/AM2 investigation are unchanged.
 
