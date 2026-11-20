@@ -2,6 +2,10 @@
 
 This repository is an evidence-led graphics **research and production laboratory**, not a sprite-generation prompt library. Use these directions when acting on this checkout. The project charter and protocol remain authoritative: [charter](docs/CHARTER.md), [protocol](docs/PROTOCOL.md).
 
+## Programme navigation
+
+Read [PROGRAMME](docs/PROGRAMME.md) for the relation-led research organization, [METHODS_AND_QUALITY](docs/METHODS_AND_QUALITY.md) for discipline-specific evidential jurisdiction, and [ACTIVE](research/ACTIVE.md) when selecting current work. Historical cases (including AM2) are comparators, not default design targets; see [case index](research/cases/INDEX.md). Neither a minimum numerical graphics specification nor a compulsory engine is adopted. Keep source corpus, active priorities, historical cursors and executable evidence separate.
+
 ## Context loading (read only what the task needs)
 
 1. Identify the task's **target, intended use and constraints**. For open work, inspect [knowledge/index](knowledge/INDEX.md) to find the minimum relevant sources, then consult the specific original files. Do not bulk-load every research record or assume chat history is available.

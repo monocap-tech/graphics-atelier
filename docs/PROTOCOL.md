@@ -1,5 +1,17 @@
 # Investigation protocol
 
+## Choose the method from the outstanding question
+
+The target-to-workflow record below remains the common *operational* unit, not a demand that every historical, artistic or scientific inquiry become a prototype. Use [methods and situated quality](METHODS_AND_QUALITY.md) to select the evidence appropriate to the claim:
+
+- **Formal/computational:** state mathematical premises, implementation, invariants, complexity, numerical and performance conditions.
+- **Empirical/perceptual:** specify stimuli, context, subjects or measurements, controls and limits of generalization.
+- **Practice-based/artistic:** retain editable source, authoring decisions, critique, revisions and a representative presentation; do not equate a mechanical test with artistic adequacy.
+- **Historical/institutional:** qualify primary accounts, dates, provenance, opposing accounts and transmission claims; avoid inventing genealogies from formal similarity.
+- **Production/organizational:** trace roles, asset contracts, tool and labor constraints, revision costs, handoff and maintenance.
+
+A single inquiry can require several methods. **EK-A/B/C/D evidence kinds classify provenance of a claim, not the method or its prestige; R0–R5 assess bounded maturity, not aesthetic merit.** A historical claim can legitimately stop at R1; only operational claims need a runnable recipe. A viewer-response claim requires actual relevant evidence; artist intention alone does not supply it.
+
 ## Unit of work: a target-to-workflow record
 
 A target is an observable feature in an identifiable reference, not simply a game title or aesthetic label. Example: independently rotating textured architectural components remain legible behind orthogonally projected bullets. First define what would count as an acceptable result and what is not required.
