@@ -6,6 +6,8 @@ Research and production laboratory for visual graphics architecture, interactive
 
 ## Start here
 
+- [Agent entrypoint](AGENTS.md) and [knowledge routing index](knowledge/INDEX.md): bounded repository-aware decision procedure. [GA-AGENT-01](evals/GA-AGENT-01/PROMPT.md) is **prepared, not run**; its presence does not validate agent deliberation or artistic output.
+
 - [Research charter](docs/CHARTER.md): scope, constraints, evidence levels and stopping conditions.
 - [Investigation protocol](docs/PROTOCOL.md): target definition, source qualification, reproducible experiments and acceptance.
 - [G06 effects production standard](docs/EFFECTS_STANDARD.md): canonical target-to-workflow record, representational/situational/experiential/production facets, evidence gates and current scope.
