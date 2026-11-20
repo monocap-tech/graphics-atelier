@@ -37,6 +37,8 @@ See [G02-APERTURE-01](../research/G02-APERTURE-01.md) for the print/display comp
 
 [G02-SPECIMEN-01](../research/G02-SPECIMEN-01.md) records a bounded *locally executed* original SVG→native registered raster fixture with four poses/four native height classes, bounded pivot/height checks, feature-layer pixel-support measurements and lens-color revision propagation. All shown display variants are mockups, not engine tests; no artistic success, production-size choice or cross-medium workflow generalization follows. Full executable assets are downloadable conversation attachments, not all present in this Git branch.
 
+[G02-SPECIMEN-02](../research/G02-SPECIMEN-02.md) locally tests *source-layer semantics* during h48 color reduction and controlled native-pixel intervention. Pixel, color role, layer mask, visual cue and import pivot must remain distinguishable. Original and authored alternatives share source-cell/pivot and offline viewport mocks, while art legibility and real Unity rendering are unverified; a Unity importer script is supplied in a conversation fixture, not executed. Nominal screen-resolved h48 and 112px display are conditional test values only.
+
 ## Evidence and sequence
 
 G02-AUDIT-01.md records the reported Guilty Gear/GGX numerical comparison and the independent Maskedo scale convention; neither is a universal Japanese standard. It also describes the next candidate capture pass. Golden-section and A/JIS B paper modularity remain distinct hypotheses; simple fractions, genre, camera, print/animation layout and hardware constraints are competing explanations. No causal paper-to-game rule is established.
