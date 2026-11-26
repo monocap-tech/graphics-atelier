@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="300" viewBox="0 0 480 300">
+<defs>
+  <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#324958"/><stop offset="1" stop-color="#162a38"/></linearGradient>
+  <linearGradient id="coat" x2="1" y2="1"><stop stop-color="#8eaaa9"/><stop offset="1" stop-color="#3d6274"/></linearGradient>
+  <g id="base">
+    <rect width="480" height="300" fill="url(#sky)"/>
+    <circle cx="381" cy="56" r="33" fill="#b8b7a4" opacity=".23"/>
+    <path d="M0 196L58 135 100 166 172 115 242 171 319 118 392 161 480 116V300H0Z" fill="#243b49"/>
+    <path d="M0 231L79 184 155 223 246 185 323 219 408 175 480 212V300H0Z" fill="#192f3d"/>
+    <path d="M10 246H470M10 263H470" stroke="#617886" opacity=".22"/>
+    <!-- Original cel-style courier portrait; isolated from the effect. -->
+    <g stroke="#1b303e" stroke-width="2" stroke-linejoin="round">
+      <path d="M66 252Q71 215 105 198L139 179 180 181 205 205 242 252Z" fill="url(#coat)"/>
+      <path d="M116 201L148 181 166 198 184 181 205 205 184 231 167 214 151 231Z" fill="#d1d4c5"/>
+      <path d="M115 184L121 158 165 153 172 190 149 207Z" fill="#d89f86"/>
+      <path d="M105 84Q116 54 155 59Q196 62 205 104L195 137 181 162 157 181 133 175 112 151 103 119Z" fill="#edbea0"/>
+      <path d="M108 146L101 159 86 134 78 106Q76 65 110 48Q148 24 183 48Q210 67 216 103L194 95 183 70 165 94 135 114 116 102 109 136Z" fill="#263e4b"/>
+      <path d="M90 103Q82 70 114 51Q141 38 163 46L137 57 118 78 107 105Z" fill="#4f7080" stroke="none"/>
+      <path d="M106 111Q92 104 91 118Q94 135 109 133" fill="#e3ab92"/>
+      <path d="M140 120Q151 112 161 118M177 116Q187 111 195 118" fill="none" stroke-width="2.6"/>
+      <path d="M143 126Q152 134 160 124M178 124Q186 131 193 123" fill="none" stroke="#304554"/>
+      <path d="M171 127L167 142 173 143M155 153Q166 160 178 151" fill="none" stroke="#a26457" stroke-width="1.6"/>
+      <path d="M113 196L131 229 106 252M208 206L193 233 210 252" fill="none" stroke="#294958"/>
+      <path d="M167 203L179 212 167 223 155 212Z" fill="#ba9d6e"/>
+      <path d="M167 206L175 212 167 219 159 212Z" fill="#619c9c" stroke="#d9c398" stroke-width="1.5"/>
+    </g>
+    <!-- A distant sentinel: its aperture is a separate possible bearer. -->
+    <g stroke="#203441" stroke-width="2" stroke-linejoin="round">
+      <ellipse cx="351" cy="200" rx="45" ry="6" fill="#142633" opacity=".65" stroke="none"/>
+      <path d="M299 126L319 111 345 123 391 111 412 126 398 154 369 169 332 164 310 148Z" fill="#798f93"/>
+      <path d="M306 128L329 137 321 151 305 142ZM400 128L378 137 385 152 402 141Z" fill="#b5b4a1"/>
+      <path d="M331 122L372 122 384 143 369 161 337 161 322 143Z" fill="#405f70"/>
+      <circle cx="353" cy="142" r="15" fill="#223d4d" stroke="#a2b5af"/>
+      <circle cx="353" cy="142" r="8" fill="#a77e65" stroke="none"/>
+      <path d="M331 117L336 108 366 108 372 117" fill="#a8b7b0"/>
+    </g>
+    <g id="ui"><rect x="313" y="234" width="137" height="36" rx="4" fill="#223b4b" stroke="#7b939e"/><path d="M325 252H337M331 246V258" stroke="#b7c8c4" stroke-width="1.5"/><text x="346" y="256" font-size="11" font-family="sans-serif" letter-spacing="2" fill="#d7e1dc">LINK</text></g>
+    <rect x=".5" y=".5" width="479" height="299" fill="none" stroke="#8fabb3" opacity=".46"/>
+  </g>
+  <g id="motif"><path d="M0 -14Q1 -2 12 0Q1 2 0 14Q-1 2 -12 0Q-1 -2 0 -14Z" fill="#e8c480"/><path d="M0 -8L1 -1 7 0 1 1 0 8 -1 1 -7 0 -1 -1Z" fill="#fff3cf"/><path d="M12 -11L13 -7 17 -6 13 -5 12 -1 11 -5 7 -6 11 -7Z" fill="#e8c480"/></g>
+</defs>
+<use xlink:href="#base"/>
+<!-- Instance chosen by renderer. -->
+</svg>

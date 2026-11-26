@@ -1,0 +1,362 @@
+{
+  "hz": 24,
+  "durationTicks": 96,
+  "audio": [
+    {
+      "id": 1,
+      "tick": 3,
+      "voice": "A"
+    },
+    {
+      "id": 2,
+      "tick": 15,
+      "voice": "A"
+    },
+    {
+      "id": 3,
+      "tick": 27,
+      "voice": "B"
+    },
+    {
+      "id": 4,
+      "tick": 39,
+      "voice": "A"
+    },
+    {
+      "id": 5,
+      "tick": 51,
+      "voice": "B"
+    },
+    {
+      "id": 6,
+      "tick": 63,
+      "voice": "B"
+    },
+    {
+      "id": 7,
+      "tick": 75,
+      "voice": "A"
+    },
+    {
+      "id": 8,
+      "tick": 87,
+      "voice": "B"
+    }
+  ],
+  "variants": [
+    {
+      "id": "declared_mapping",
+      "visual": [
+        {
+          "id": 1,
+          "tick": 3,
+          "motif": "square",
+          "duration": 6
+        },
+        {
+          "id": 2,
+          "tick": 15,
+          "motif": "square",
+          "duration": 6
+        },
+        {
+          "id": 3,
+          "tick": 27,
+          "motif": "ring",
+          "duration": 6
+        },
+        {
+          "id": 4,
+          "tick": 39,
+          "motif": "square",
+          "duration": 6
+        },
+        {
+          "id": 5,
+          "tick": 51,
+          "motif": "ring",
+          "duration": 6
+        },
+        {
+          "id": 6,
+          "tick": 63,
+          "motif": "ring",
+          "duration": 6
+        },
+        {
+          "id": 7,
+          "tick": 75,
+          "motif": "square",
+          "duration": 6
+        },
+        {
+          "id": 8,
+          "tick": 87,
+          "motif": "ring",
+          "duration": 6
+        }
+      ]
+    },
+    {
+      "id": "global_reassignment",
+      "visual": [
+        {
+          "id": 1,
+          "tick": 3,
+          "motif": "ring",
+          "duration": 6
+        },
+        {
+          "id": 2,
+          "tick": 15,
+          "motif": "ring",
+          "duration": 6
+        },
+        {
+          "id": 3,
+          "tick": 27,
+          "motif": "square",
+          "duration": 6
+        },
+        {
+          "id": 4,
+          "tick": 39,
+          "motif": "ring",
+          "duration": 6
+        },
+        {
+          "id": 5,
+          "tick": 51,
+          "motif": "square",
+          "duration": 6
+        },
+        {
+          "id": 6,
+          "tick": 63,
+          "motif": "square",
+          "duration": 6
+        },
+        {
+          "id": 7,
+          "tick": 75,
+          "motif": "ring",
+          "duration": 6
+        },
+        {
+          "id": 8,
+          "tick": 87,
+          "motif": "square",
+          "duration": 6
+        }
+      ]
+    },
+    {
+      "id": "inconsistent_reassignment",
+      "visual": [
+        {
+          "id": 1,
+          "tick": 3,
+          "motif": "square",
+          "duration": 6
+        },
+        {
+          "id": 2,
+          "tick": 15,
+          "motif": "ring",
+          "duration": 6
+        },
+        {
+          "id": 3,
+          "tick": 27,
+          "motif": "ring",
+          "duration": 6
+        },
+        {
+          "id": 4,
+          "tick": 39,
+          "motif": "ring",
+          "duration": 6
+        },
+        {
+          "id": 5,
+          "tick": 51,
+          "motif": "square",
+          "duration": 6
+        },
+        {
+          "id": 6,
+          "tick": 63,
+          "motif": "square",
+          "duration": 6
+        },
+        {
+          "id": 7,
+          "tick": 75,
+          "motif": "square",
+          "duration": 6
+        },
+        {
+          "id": 8,
+          "tick": 87,
+          "motif": "ring",
+          "duration": 6
+        }
+      ]
+    },
+    {
+      "id": "delayed_mapping",
+      "visual": [
+        {
+          "id": 1,
+          "tick": 6,
+          "motif": "square",
+          "duration": 6
+        },
+        {
+          "id": 2,
+          "tick": 18,
+          "motif": "square",
+          "duration": 6
+        },
+        {
+          "id": 3,
+          "tick": 30,
+          "motif": "ring",
+          "duration": 6
+        },
+        {
+          "id": 4,
+          "tick": 42,
+          "motif": "square",
+          "duration": 6
+        },
+        {
+          "id": 5,
+          "tick": 54,
+          "motif": "ring",
+          "duration": 6
+        },
+        {
+          "id": 6,
+          "tick": 66,
+          "motif": "ring",
+          "duration": 6
+        },
+        {
+          "id": 7,
+          "tick": 78,
+          "motif": "square",
+          "duration": 6
+        },
+        {
+          "id": 8,
+          "tick": 90,
+          "motif": "ring",
+          "duration": 6
+        }
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "id": "declared_mapping",
+      "events": 8,
+      "exact_onsets": 8,
+      "mean_absolute_lag_ticks": 0,
+      "declared_matches": 8,
+      "best_bijective_matches": 8,
+      "motif_counts": {
+        "square": 4,
+        "ring": 4
+      },
+      "matrix": {
+        "A": {
+          "square": 4,
+          "ring": 0
+        },
+        "B": {
+          "square": 0,
+          "ring": 4
+        }
+      },
+      "inside_duration": true
+    },
+    {
+      "id": "global_reassignment",
+      "events": 8,
+      "exact_onsets": 8,
+      "mean_absolute_lag_ticks": 0,
+      "declared_matches": 0,
+      "best_bijective_matches": 8,
+      "motif_counts": {
+        "square": 4,
+        "ring": 4
+      },
+      "matrix": {
+        "A": {
+          "square": 0,
+          "ring": 4
+        },
+        "B": {
+          "square": 4,
+          "ring": 0
+        }
+      },
+      "inside_duration": true
+    },
+    {
+      "id": "inconsistent_reassignment",
+      "events": 8,
+      "exact_onsets": 8,
+      "mean_absolute_lag_ticks": 0,
+      "declared_matches": 4,
+      "best_bijective_matches": 4,
+      "motif_counts": {
+        "square": 4,
+        "ring": 4
+      },
+      "matrix": {
+        "A": {
+          "square": 2,
+          "ring": 2
+        },
+        "B": {
+          "square": 2,
+          "ring": 2
+        }
+      },
+      "inside_duration": true
+    },
+    {
+      "id": "delayed_mapping",
+      "events": 8,
+      "exact_onsets": 0,
+      "mean_absolute_lag_ticks": 3,
+      "declared_matches": 8,
+      "best_bijective_matches": 8,
+      "motif_counts": {
+        "square": 4,
+        "ring": 4
+      },
+      "matrix": {
+        "A": {
+          "square": 4,
+          "ring": 0
+        },
+        "B": {
+          "square": 0,
+          "ring": 4
+        }
+      },
+      "inside_duration": true
+    }
+  ],
+  "checks": {
+    "same_counts": true,
+    "same_synchrony_different_mapping": true,
+    "alternative_consistent": true,
+    "irregular_mapping": true,
+    "lag_independent": true,
+    "all_inside": true
+  }
+}

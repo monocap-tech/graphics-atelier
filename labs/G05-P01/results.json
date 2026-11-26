@@ -1,0 +1,102 @@
+{
+  "viewport": [
+    640,
+    360
+  ],
+  "vertical_fov_deg": 60,
+  "depth": 10,
+  "points": [
+    [
+      320,
+      180
+    ],
+    [
+      160,
+      90
+    ],
+    [
+      480,
+      90
+    ],
+    [
+      160,
+      270
+    ],
+    [
+      480,
+      270
+    ]
+  ],
+  "rows": [
+    {
+      "yaw_deg": 0,
+      "anchored_max_error_px": 0,
+      "anchored_behind": 0,
+      "camera_depth_max_error_px": 0,
+      "plane_valid": 5,
+      "plane_max_error_px": 0,
+      "plane_max_forward_depth": 10
+    },
+    {
+      "yaw_deg": 15,
+      "anchored_max_error_px": 25.827153433,
+      "anchored_behind": 0,
+      "camera_depth_max_error_px": 0,
+      "plane_valid": 5,
+      "plane_max_error_px": 0,
+      "plane_max_forward_depth": 11.594358695
+    },
+    {
+      "yaw_deg": 30,
+      "anchored_max_error_px": 53.018180267,
+      "anchored_behind": 0,
+      "camera_depth_max_error_px": 0,
+      "plane_valid": 5,
+      "plane_max_error_px": 0,
+      "plane_max_forward_depth": 14.210526316
+    },
+    {
+      "yaw_deg": 45,
+      "anchored_max_error_px": 80.630580876,
+      "anchored_behind": 0,
+      "camera_depth_max_error_px": 0,
+      "plane_valid": 5,
+      "plane_max_error_px": 0,
+      "plane_max_forward_depth": 20.542327271
+    },
+    {
+      "yaw_deg": 60,
+      "anchored_max_error_px": 108.218494739,
+      "anchored_behind": 0,
+      "camera_depth_max_error_px": 0,
+      "plane_valid": 5,
+      "plane_max_error_px": 0,
+      "plane_max_forward_depth": 90
+    },
+    {
+      "yaw_deg": 75,
+      "anchored_max_error_px": 135.633985915,
+      "anchored_behind": 0,
+      "camera_depth_max_error_px": 0,
+      "plane_valid": 3,
+      "plane_max_error_px": 0,
+      "plane_max_forward_depth": 10
+    },
+    {
+      "yaw_deg": 90,
+      "anchored_max_error_px": 186.017186859,
+      "anchored_behind": 0,
+      "camera_depth_max_error_px": 0,
+      "plane_valid": 0,
+      "plane_max_error_px": null,
+      "plane_max_forward_depth": null
+    }
+  ],
+  "checks": {
+    "baseline_fixed_matches": true,
+    "depth_roundtrip": true,
+    "valid_plane_roundtrip": true,
+    "fixed_drifts": true,
+    "plane_fails": true
+  }
+}

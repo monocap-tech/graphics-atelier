@@ -1,0 +1,145 @@
+{
+  "renderer": "headless Chromium 144.0.7559.96",
+  "state_and_grid": [
+    {
+      "context": "abstract",
+      "mode": "continuous",
+      "cancel": false,
+      "activeTicks": 12,
+      "wrong": 0,
+      "blockViolations": 607
+    },
+    {
+      "context": "abstract",
+      "mode": "continuous",
+      "cancel": true,
+      "activeTicks": 0,
+      "wrong": 0,
+      "blockViolations": 529
+    },
+    {
+      "context": "abstract",
+      "mode": "stepped",
+      "cancel": false,
+      "activeTicks": 12,
+      "wrong": 0,
+      "blockViolations": 0
+    },
+    {
+      "context": "abstract",
+      "mode": "stepped",
+      "cancel": true,
+      "activeTicks": 0,
+      "wrong": 0,
+      "blockViolations": 0
+    },
+    {
+      "context": "discharge",
+      "mode": "continuous",
+      "cancel": false,
+      "activeTicks": 12,
+      "wrong": 0,
+      "blockViolations": 2157
+    },
+    {
+      "context": "discharge",
+      "mode": "continuous",
+      "cancel": true,
+      "activeTicks": 0,
+      "wrong": 0,
+      "blockViolations": 1822
+    },
+    {
+      "context": "discharge",
+      "mode": "stepped",
+      "cancel": false,
+      "activeTicks": 12,
+      "wrong": 0,
+      "blockViolations": 0
+    },
+    {
+      "context": "discharge",
+      "mode": "stepped",
+      "cancel": true,
+      "activeTicks": 0,
+      "wrong": 0,
+      "blockViolations": 0
+    },
+    {
+      "context": "targeting",
+      "mode": "continuous",
+      "cancel": false,
+      "activeTicks": 12,
+      "wrong": 0,
+      "blockViolations": 419
+    },
+    {
+      "context": "targeting",
+      "mode": "continuous",
+      "cancel": true,
+      "activeTicks": 0,
+      "wrong": 0,
+      "blockViolations": 281
+    },
+    {
+      "context": "targeting",
+      "mode": "stepped",
+      "cancel": false,
+      "activeTicks": 12,
+      "wrong": 0,
+      "blockViolations": 0
+    },
+    {
+      "context": "targeting",
+      "mode": "stepped",
+      "cancel": true,
+      "activeTicks": 0,
+      "wrong": 0,
+      "blockViolations": 0
+    }
+  ],
+  "beam_pixel_probe": [
+    {
+      "mode": "continuous",
+      "cancel": false,
+      "rgba": [
+        245,
+        237,
+        208,
+        255
+      ]
+    },
+    {
+      "mode": "continuous",
+      "cancel": true,
+      "rgba": [
+        16,
+        25,
+        35,
+        255
+      ]
+    },
+    {
+      "mode": "stepped",
+      "cancel": false,
+      "rgba": [
+        211,
+        229,
+        208,
+        255
+      ]
+    },
+    {
+      "mode": "stepped",
+      "cancel": true,
+      "rgba": [
+        21,
+        31,
+        44,
+        255
+      ]
+    }
+  ],
+  "page_errors": [],
+  "limitations": "No real-time animation or audio latency tested; no viewers; sample positions only."
+}

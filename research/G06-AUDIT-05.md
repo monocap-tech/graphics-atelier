@@ -1,0 +1,25 @@
+# G06-A05 — Recurrence, variation, canon and compositional transfer
+
+2026-11-18. Bounded documentary observations; original sampled-path control executed and visual prototype authored. No external works or imagery reproduced, footage timed, editor used, or reception measured.
+
+| ID | Source | Bounded finding |
+|---|---|---|
+| SRC126 | [Doshisha Women's College, Mizue 2014 lecture report](https://dwcmedia.jp/archives/14l01) | R1 university account: graph-paper geometry in MODERN works; WONDER uses over 8,000 unique originals; TATAMP combines short animated/sounded fragments so both compositions develop together. No actual drawing or film inspected. |
+| SRC127 | [Agency for Cultural Affairs creator development, 水江西遊記 pilot report](https://creators.j-mediaarts.bunka.go.jp/reports/3457) | R1 direct discussion: abstract multiplication adapted to Wukong's duplication, geometric buildings, 3D modeled from image boards for spatial camera movement. Mizue contrasts practical two-frame character exposure (12 drawings/s) with preference for full exposure during metamorphosis. Pilot, not completed film or universal cadence rule. |
+| SRC128 | [Norman McLaren, technical notes, pp. 9–10 (Canon, 1964; revised 1973)](https://www3.nfb.ca/archives_mclaren/notech/NT_EN.pdf); [NFB film record](https://www.nfb.ca/film/canon/) | R1 bounded textual account: cubes following preplanned repeated path; optical-printer staggered colored copies of one cutout; live action staged to interlock after 189-frame delay, tested by overlaying paired prints. Reversal, image inversion and 2/4/8x acceleration used as counterparts to musical operations. Music precedes visuals in first part, follows in latter sections. PDF extracted text inspected; page screenshot requests timed out/403; pagination/visual diagrams not independently checked. Film not watched. |
+| SRC129 | [CINRA, 細金卓矢 interview](https://www.cinra.net/index.php/article/column-wacom-himitsukichi18-1-php), JP, 2012 context | R1 creator testimony: floor-plan motifs used for a natural-selection competition, then reworked for Tatami Galaxy ending; final episode introduces opening door. For another MV, deliberately decouples imagery from literal lyrics and seeks shots that survive extraction/reordering. Distinguish intention from audience reception. |
+| SRC130 | [JAGDA Graphic Design Review, モーショングラフィックス文化とTVアニメのクレジットシーケンス](https://gdr.jagda.or.jp/articles/71/) | R1 for author's historical/critical analysis: Tatami Galaxy plan motif, later pixel-oriented graphic composition, compositing as shared integration layer for drawn characters, type and abstract CG. Not creator testimony for each case or audited technical history. |
+| SRC131 | [Center for Visual Music, Fischinger biography (2021)](https://www.centerforvisualmusic.org/Fischinger/OFBio.htm) | R1 institutional narrative: cel layering in Allegretto to articulate musical relationships; overlapping cycles interrupted in early experiments; Motion Painting No.1 follows musical structure without strict onset matching. Copyright notice; no text/images copied. |
+| SRC132 | [Trygve Nielsen, Isomorphic Visual Music](https://www.researchcatalogue.net/view/4170550/4723768) | R0 snippet about research on animated rhythm/counterpoint; direct fetch cache miss; chapter not inspected. |
+
+Searches: 抽象アニメーション 反復 変奏, 水江未来 制作, 細金卓矢 間取り, Norman McLaren Canon technical notes. Further Japanese animation examples and source access remain open.
+
+## Synthesis (our classification)
+
+A phrase is an ordered spatiotemporal relation, not a single sprite or motion preset. Preserve a source path, timing and shape library, with explicit transform and scheduling parameters. Recurrence repeats the phrase; variation deliberately changes a dimension; canon is delayed imitation (not all counterpoint); counterpoint may combine independent coherent voices. A global reversal, reflection, tempo change, transposition or recombination changes different relations. Neither coincidence nor nonoverlap defines artistic quality. Visual interlocking may benefit from overlap, masking, depth or negative space according to purpose. Check original phrase and transformed voices in the actual composition, not in isolation.
+
+Production transfer evidence: Mizue adapts abstract methods to narrative roles; Hosogane reuses and develops a motif for a different commission. This is stronger evidence for cross-context reuse than mere similarity between films. Do not claim historical influence between these artists without evidence.
+
+Reference atlas extension: FXR10 TATAMP joint sound/image fragments; FXR11 MODERN No.2 geometric metamorphosis; FXR12 Canon staggered repeated action; FXR13 Tatami Galaxy ED recurring floor-plan motif/exception; FXR14 Journey to the West pilot, contextual transfer; FXR15 Allegretto layers / Motion Painting No.1 broad structural relation. All unmeasured; actual cuts/timings still pending.
+
+See [G06-P04](studies/G06-P04.md) for an original reusable phrase with delay/mirror/time-scaling controls and two-context visual preview.
