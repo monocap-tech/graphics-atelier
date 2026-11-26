@@ -4,6 +4,18 @@ Research and production laboratory for visual graphics architecture, interactive
 
 **Purpose:** reconstruct the capacity to produce sophisticated original graphics and presentation using publicly obtainable knowledge, accessible tools, and independent-development resources. The work is target-led, not software-led. Historical fidelity is a research variable, not a universal requirement.
 
+## Programme orientation (2026-11-20, proposed on a review branch)
+
+Graphics Atelier studies the **relations between artistic intention, representation, perception, computation, production and presentation**, rather than any one studio's methods or a universal visual standard. "Minimum quality" means fitness for a *declared* artistic/use context and the capacity to construct, judge, revise and maintain that result—not fixed resolution, polygon, palette or performance thresholds. Historical exceptional practice is evidence, not an obligatory implementation.
+
+- [Programme map](docs/PROGRAMME.md): foundations, disciplines, investigations, cases and experimental work; independent ownership.
+- [Methods and situated quality](docs/METHODS_AND_QUALITY.md): how formal, empirical, practice-based, historical and production evidence interact.
+- [Active research portfolio](research/ACTIVE.md): what is actually under investigation now, its blockers and the next bounded decision.
+- [Case-study index](research/cases/INDEX.md): AM2 and other cases as comparators, not governing standards.
+- [Existing handoff](HANDOFF.md) and [longstanding queue](research/QUEUE.md) preserve the detailed history, IDs and caveats.
+
+This is a navigational and charter-level reorganization. Existing studies retain their paths, claims and maturity. It does **not** certify a completed graphics pipeline or adopt a graphics technology.
+
 ## Start here
 
 - [Agent entrypoint](AGENTS.md) and [knowledge routing index](knowledge/INDEX.md): bounded repository-aware decision procedure. [GA-AGENT-01](evals/GA-AGENT-01/PROMPT.md) is **prepared, not run**; its presence does not validate agent deliberation or artistic output.

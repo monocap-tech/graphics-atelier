@@ -4,6 +4,9 @@
 
 | Task / decision | First relevant sources | What those sources **do not** establish |
 |---|---|---|
+| Programme scope, domain relations, minimum quality | [PROGRAMME](../docs/PROGRAMME.md), [METHODS_AND_QUALITY](../docs/METHODS_AND_QUALITY.md), [CHARTER](../docs/CHARTER.md) | No universal threshold, scientific reduction of artistic judgment or prescribed modern graphics pipeline |
+| Present cross-programme priority | [ACTIVE](../research/ACTIVE.md) | Priorities do not change historic R maturity, compel parallel series or assert execution |
+| Historical and contemporary case evidence | [Case index](../research/cases/INDEX.md), [SOURCES](../research/SOURCES.md) | AM2 or any exemplary studio is not the universal benchmark |
 | Scope, rights, maturity, stopping | [CHARTER](../docs/CHARTER.md), [PROTOCOL](../docs/PROTOCOL.md), [PUBLICATION](../docs/PUBLICATION.md) | R1 reports are not executed methods; public availability is not redistribution permission |
 | Current work, priorities, dependencies | [HANDOFF](../HANDOFF.md), [QUEUE](../research/QUEUE.md) | Queue entries do not prove all items executed or supersede independent streams |
 | Original native dot-art construction | [G01/G02 queue gates](../research/QUEUE.md), [G02-FEATURE-01](../research/G02-FEATURE-01.md), [dot-art skill](../.agents/skills/dot-art-construction/SKILL.md) | No validated native-canvas artistic technique or preferred pixel density yet |

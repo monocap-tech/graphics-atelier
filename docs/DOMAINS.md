@@ -1,6 +1,8 @@
 # Domain map
 
-Stable provisional identifiers denote capabilities rather than applications. The interface branch is kept distinct and linked to graphics at their shared boundaries.
+This map indexes **production capabilities**, not an exhaustive taxonomy of sciences or a hierarchy of artistic authority. The relationships among formal computation, empirical perception, artistic craft, production organization, historical transmission and presentation are mapped separately in [PROGRAMME](PROGRAMME.md) and [METHODS_AND_QUALITY](METHODS_AND_QUALITY.md).
+
+Stable provisional identifiers denote capabilities rather than applications. The interface branch is kept distinct and linked to graphics at their shared boundaries. Multiple disciplines may contribute to any VG/IP domain; a historical case is evidence about a domain, not its norm.
 
 | ID | Domain | Example output |
 |---|---|---|

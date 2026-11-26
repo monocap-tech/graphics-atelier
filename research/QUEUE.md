@@ -1,5 +1,7 @@
 # Bounded work queue
 
+> **Navigation revision (2026-11-20):** [ACTIVE.md](ACTIVE.md) is the present cross-programme priority and dependency view. The sections below retain original workstream IDs, historical investigation cursors and detailed evidence gates. Their older “current investigation” headings are historical within the dated material; they do not override ACTIVE. [PROGRAMME](../docs/PROGRAMME.md) defines the larger relationship-oriented framework. Nothing was deleted, renamed or promoted in maturity by this navigation change.
+
 **First-round parallel investigations:** [Round 01 index](rounds/R01/README.md) registers six independent R0 series (GA-R01-S01…S06). These are research *series*, not six mandatory sequential tasks or new completed evidence. Their internal studies and stopping decisions remain independently governed; neither G06 nor the separate Suzuki/AM2 technical work is reprioritized by this index.
 
 Workstream IDs persist across proposed, executed-bounded, blocked, held and deferred records. The table describes **research questions and gates**, not a claim that every entry is still unexecuted. Per-study evidence and status take precedence. Dependencies are soft except where an individual study declares a required preceding artifact. For G06, [STD01](../docs/EFFECTS_STANDARD.md) governs; archived priority notes below do not.
